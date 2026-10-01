@@ -1,0 +1,682 @@
+GOING EXPONENTIAL - LYRIC CITATIONS
+Checked 2026-10-01
+
+A citation map for the identifiable references in the author-supplied lyrics. Sources support the underlying references, not authorship of the lyrics. Artistic interpretations and possible inspirations are labeled; they are not assertions of the songwriter's private intent. Product information and research announcements were checked as of 2026-10-01.
+
+Recent-result rows cite the researchers' announcements, papers, and published formalizations. This research did not independently audit the mathematical proofs, rebuild Lean certificates, or reproduce biological experiments. Source-specific access limitations are recorded in the bibliography. The Future section is an imagined scenario; its named unsolved problems and medical predictions are not presented as established outcomes.
+
+
+[Opening]
+
+1. Turing machine (Historical)
+Turing’s tape: the rules encoded;
+Turing describes symbolic computation using a tape, a finite machine state, and deterministic transition rules. His universal machine can read an encoded machine description.
+[1] Alan M. Turing (1936). On Computable Numbers, with an Application to the Entscheidungsproblem. https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+
+2. Stored-program computing (Historical)
+Von Neumann’s draft: instructions loaded.
+Von Neumann's EDVAC draft describes a computer organization in which instructions are represented in memory. The line does not imply that he alone invented stored-program computing.
+[2] John von Neumann (1945-06-30). First Draft of a Report on the EDVAC. https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-8-pdf/k-8-u2593-Draft-EDVAC.pdf
+
+3. Dartmouth and AI winters (Historical + metaphor)
+Dartmouth summer, winter snow;
+The 1955 proposal led to the summer 1956 Dartmouth project. Winter snow is a metaphor for subsequent disillusionment and funding retrenchment; Lighthill's critical report and McCarthy's response are historical primary documents for that context.
+[3] John McCarthy, Marvin Minsky, Nathaniel Rochester, Claude Shannon (1955-08-31; proposed meeting summer 1956). A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence. https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html
+[4] James Lighthill (1973 publication). Artificial Intelligence: A General Survey. https://www.aiai.ed.ac.uk/events/lighthill1973/lighthill.pdf
+[5] John McCarthy (Response to the Lighthill report). Review of Artificial Intelligence: A General Survey. https://www-formal.stanford.edu/jmc/reviews/lighthill/lighthill.html
+
+4. Backpropagation (Historical)
+Backprop found which way to go.
+The influential 1986 Rumelhart-Hinton-Williams paper trains representations by propagating errors backward to compute weight updates. Which way to go evokes the gradient. This is a seminal popularization, not a claim that backpropagation had no earlier history.
+[6] David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams (1986). Learning representations by back-propagating errors. https://doi.org/10.1038/323533a0
+
+5. AlexNet; AlphaGo move 37 (Historical)
+AlexNet, then AlphaGo—
+Move thirty-seven stole the show.
+AlexNet is the 2012 ImageNet convolutional-network breakthrough. AlphaGo defeated Lee Sedol 4-1 in March 2016; the celebrated move 37 occurred in game two. It is distinct from Lee Sedol's move 78 in game four.
+[7] Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton (2012). ImageNet Classification with Deep Convolutional Neural Networks. https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+[8] Google DeepMind (Lee Sedol match: March 2016). AlphaGo: Making history and inventing winning moves. https://deepmind.google/research/alphago/
+
+6. Eight Transformer authors (Historical)
+Eight names, attention, twenty-seventeen;
+Attention Is All You Need (2017) introduced the Transformer. Its eight authors are Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+[9] Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin (2017). Attention Is All You Need. https://arxiv.org/abs/1706.03762
+
+7. GPT-3 in 2020 (Historical)
+Three years later, GPT-3 hits the screen.
+The GPT-3 paper appeared in 2020, three years after the Transformer paper.
+[10] Tom B. Brown et al. (2020). Language Models are Few-Shot Learners. https://arxiv.org/abs/2005.14165
+
+
+[Verse 1]
+
+8. 175 billion parameters; next-token prediction (Technical + metaphor)
+One-seventy-five billion weights;
+The autocomplete graduates.
+The largest GPT-3 model has 175 billion parameters and uses autoregressive language modeling. Autocomplete graduates is a metaphor for the range of tasks that next-token prediction can support.
+[10] Tom B. Brown et al. (2020). Language Models are Few-Shot Learners. https://arxiv.org/abs/2005.14165
+
+9. Few-shot in-context learning (Technical)
+A few-shot prompt, no SGD;
+Same frozen weights, new tricks for me.
+GPT-3's few-shot evaluations supply demonstrations in the prompt with no task-specific gradient updates. The parameters stay frozen during this evaluation; the model was trained with optimization beforehand. SGD means stochastic gradient descent.
+[10] Tom B. Brown et al. (2020). Language Models are Few-Shot Learners. https://arxiv.org/abs/2005.14165
+
+10. Books in the training corpus (Technical)
+We fed it books, then watched it write;
+Table 2.2 of the GPT-3 paper lists Books1 and Books2 alongside Common Crawl, WebText2, and Wikipedia. Its writing evaluations supply the second part of the line.
+[10] Tom B. Brown et al. (2020). Language Models are Few-Shot Learners. https://arxiv.org/abs/2005.14165
+
+11. Fluency and falsehood (Technical + metaphor)
+It learned to sound like it was right.
+TruthfulQA evaluates models, including GPT-3, on their tendency to reproduce human misconceptions. The line describes plausible but incorrect language, not evidence of conscious deception.
+[11] Stephanie Lin, Jacob Hilton, Owain Evans (2021 preprint; 2022 publication). TruthfulQA: Measuring How Models Mimic Human Falsehoods. https://arxiv.org/abs/2109.07958
+
+12. AlphaFold and protein structures (Technical + metaphor)
+AlphaFold: the shapes unfold;
+Silicon studies carbon’s folds.
+AlphaFold2 predicts three-dimensional protein structures from amino-acid sequences. Silicon/carbon juxtaposes computing hardware and organic biology. This does not assert that all folding dynamics or protein function have been solved.
+[12] John Jumper et al. (2021). Highly accurate protein structure prediction with AlphaFold. https://pmc.ncbi.nlm.nih.gov/articles/PMC8371605/
+[13] ASML (Checked 2026-10-01). The basics of microchips. https://www.asml.com/en/technology/all-about-microchips/microchip-basics
+
+
+[Chorus]
+
+13. Exponential growth; human job anxiety (Metaphor with research context)
+We’re going exponential;
+I’m feeling nonessential.
+OpenAI's 2018 analysis documented rapid historical growth in compute used by the largest AI training runs. Feeling nonessential is the speaker's reaction. Research on labor-market task exposure provides context, not proof that people are universally replaceable.
+[14] OpenAI (2018-05-16). AI and compute. https://openai.com/index/ai-and-compute/
+[15] Tyna Eloundou, Sam Manning, Pamela Mishkin, Daniel Rock (2023). GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models. https://arxiv.org/abs/2303.10130
+
+14. God behind an API; root (Metaphor + technical pun)
+Put a god behind an API—
+It asks for root; I ask it why.
+God is personification of powerful AI; API means application programming interface. Root evokes Unix/Linux superuser privileges and also ultimate control. The lyric dramatizes a permission request; it does not assert that all AI systems actually seek root.
+[16] Linux man-pages project (Current documentation, checked 2026-10-01). capabilities(7): Linux manual page. https://man7.org/linux/man-pages/man7/capabilities.7.html
+[17] Anthropic (2025). Agentic Misalignment: How LLMs could be insider threats. https://www.anthropic.com/research/agentic-misalignment
+
+15. FLOPs and scaling (Technical context + metaphor)
+Double the FLOPs, double the runs—
+Look what carbon’s gone and done.
+FLOPs are floating-point operations; runs refers to training or inference experiments. Compute growth and empirical loss-scaling laws are relevant context. Doubling compute does not guarantee doubled intelligence, performance, or number of runs. Carbon refers to the humans building the machines.
+[14] OpenAI (2018-05-16). AI and compute. https://openai.com/index/ai-and-compute/
+[18] Jared Kaplan et al. (2020). Scaling Laws for Neural Language Models. https://arxiv.org/abs/2001.08361
+
+16. Sand becomes chips; algorithmic hiring (Material metaphor + research context)
+We gave the sand a job to do;
+Now it’s interviewing me and you.
+ASML describes silicon wafers made from silica sand. Algorithmic hiring research documents automated candidate assessment and screening. Interviewing me and you personifies that role; it does not mean the narrator's own interview was verified.
+[13] ASML (Checked 2026-10-01). The basics of microchips. https://www.asml.com/en/technology/all-about-microchips/microchip-basics
+[19] Manish Raghavan, Solon Barocas, Jon Kleinberg, Karen Levy (2019 preprint; FAccT 2020). Mitigating Bias in Algorithmic Hiring: Evaluating Claims and Practices. https://arxiv.org/abs/1906.09208
+
+
+[Verse 2]
+
+17. Chinchilla versus Gopher (Technical)
+Chinchilla: fewer weights, more text;
+Gopher’s bigger—second best.
+Hoffmann et al. compare 70B-parameter Chinchilla trained on four times more data with 280B-parameter Gopher at a comparable compute budget. Chinchilla outperformed Gopher on the paper's evaluations; second best is a lyrical comparison, not a universal ranking.
+[20] Jordan Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. https://arxiv.org/abs/2203.15556
+[21] Jack W. Rae et al. (2021). Scaling Language Models: Methods, Analysis & Insights from Training Gopher. https://arxiv.org/abs/2112.11446
+
+18. RLHF and PPO (Technical)
+RLHF, PPO;
+RLHF is reinforcement learning from human feedback. PPO is proximal policy optimization. InstructGPT is a primary example of the combination; the 2017 PPO paper defines the optimization method.
+[22] Long Ouyang et al. (2022). Training language models to follow instructions with human feedback. https://arxiv.org/abs/2203.02155
+[23] John Schulman et al. (2017). Proximal Policy Optimization Algorithms. https://arxiv.org/abs/1707.06347
+
+19. ChatGPT launch (Historical)
+Twenty-two: ChatGPT says “Hello.”
+OpenAI introduced ChatGPT on November 30, 2022. Its original announcement explicitly describes RLHF and PPO.
+[24] OpenAI (2022-11-30). Introducing ChatGPT. https://openai.com/index/chatgpt/
+
+20. GPT-4 image inputs (Technical + simplification)
+GPT-4 can read the scene;
+The picture joins the token stream.
+The GPT-4 report documents a multimodal model taking image and text inputs and producing text. Picture joins the token stream is a compact description of multimodal processing; the report does not disclose the complete image-token architecture.
+[25] OpenAI (2023). GPT-4 Technical Report. https://arxiv.org/abs/2303.08774
+
+21. Chain of thought; o1; test-time compute (Technical)
+Chain of thought; let o1 sweat;
+More test-time compute, a better bet.
+Wei et al. investigate chain-of-thought prompting. OpenAI's September 2024 o1 announcement reports improving benchmark performance with more reinforcement-learning training and more time spent reasoning at inference. Sweat is anthropomorphism. More computation is an observed tradeoff, not a guarantee for every prompt.
+[26] Jason Wei et al. (2022). Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. https://arxiv.org/abs/2201.11903
+[27] OpenAI (2024-09-12). Learning to reason with LLMs. https://openai.com/index/learning-to-reason-with-llms/
+
+22. DeepSeek-R1; GRPO; distillation (Technical)
+DeepSeek-R1, GRPO—
+Distill the teacher; watch it go.
+DeepSeekMath introduces Group Relative Policy Optimization (GRPO). DeepSeek-R1 uses this family of reinforcement-learning techniques and releases smaller Qwen/Llama-based models trained on R1-generated reasoning data. Distillation transfers behavior through training examples, not by directly copying the teacher's weights. R1-Zero's no-preliminary-SFT setup should not be conflated with R1's multi-stage training.
+[28] Zhihong Shao et al. (2024). DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models. https://arxiv.org/abs/2402.03300
+[29] DeepSeek-AI et al. (2025). DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. https://arxiv.org/abs/2501.12948
+
+23. Model competition; falling loss; spending (Satire with technical context)
+OpenAI, Anthropic, trading blows;
+The loss goes down; the invoice grows.
+OpenAI and Anthropic release competing model families. Scaling-law research describes falling language-model loss as resources increase. Invoice grows is a spending joke, not a universal price trend: Opus 5.5's own announcement says its typical running cost is lower than Opus 5.
+[30] OpenAI (2026; updated September 22 and 29). GPT-6 Astra: A new generation of intelligence. https://openai.com/index/gpt-6-astra/
+[31] Anthropic (2026-09-22). Introducing Claude Opus 5.5. https://www.anthropic.com/claude-opus-5-5
+[18] Jared Kaplan et al. (2020). Scaling Laws for Neural Language Models. https://arxiv.org/abs/2001.08361
+[32] Official OpenAI documentation (Checked 2026-10-01). Pricing: ChatGPT Work and Codex. https://learn.chatgpt.com/docs/pricing
+
+24. GPT-6; Claude Opus 5.5; carbon CV (Release references + metaphor)
+GPT-6, Opus five-point-five;
+My carbon CV fights to stay alive.
+The named families have official 2026 announcements, including Opus 5.5 on September 22. CV means curriculum vitae/resume, and carbon CV means a human applicant. The survival anxiety is artistic; labor-market exposure research supplies context.
+[30] OpenAI (2026; updated September 22 and 29). GPT-6 Astra: A new generation of intelligence. https://openai.com/index/gpt-6-astra/
+[31] Anthropic (2026-09-22). Introducing Claude Opus 5.5. https://www.anthropic.com/claude-opus-5-5
+[15] Tyna Eloundou, Sam Manning, Pamela Mishkin, Daniel Rock (2023). GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models. https://arxiv.org/abs/2303.10130
+
+
+[Verse 3]
+
+25. ASML EUV and TSMC foundry (Technical + metaphor)
+ASML, EUV light;
+TSMC prints day and night.
+ASML supplies extreme-ultraviolet lithography machines using 13.5 nm light. TSMC fabricates chips; day and night evokes industrial production rather than an audited operating schedule. ASML supplies the machinery and TSMC is the foundry in this pairing.
+[33] ASML (Checked 2026-10-01). EUV lithography systems. https://www.asml.com/en/products/euv-lithography-systems
+[34] TSMC (Checked 2026-10-01). CoWoS: Chip on Wafer on Substrate. https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm
+
+26. Etching, dicing, CoWoS, racks (Technical + metaphor)
+Etch and dice, then CoWoS stacks;
+Silicon temples fill the racks.
+ASML explains etching and cutting wafers into dies. TSMC's Chip on Wafer on Substrate (CoWoS) integrates compute dies and HBM stacks in advanced packaging. Much CoWoS integration is 2.5D, with compute and memory side by side; stacks does not imply all components are vertically stacked. Silicon temples is a metaphor for data centers.
+[35] ASML (Checked 2026-10-01). Six crucial steps in semiconductor manufacturing. https://www.asml.com/en/company/stories/2021/semiconductor-manufacturing-process-steps
+[34] TSMC (Checked 2026-10-01). CoWoS: Chip on Wafer on Substrate. https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm
+
+27. GPU and RAM costs (Hyperbole)
+GPU prices hit the sky;
+My RAM just waved my rent goodbye.
+The GPU/rent comparison is personal cost hyperbole. No specific GPU, RAM kit, location, date range, price series, or actual rent amount is supplied, so a literal price trend or budget comparison cannot be verified. The adjacent HBM source provides context for memory-capacity pressure, not proof of these exact comparisons.
+[36] Micron Technology (2025). Fiscal 2025 earnings presentation: Supply outlook. https://investors.micron.com/static-files/df96216e-3e07-4b97-a4ef-df0a5fa684d6
+
+28. HBM wafer demand (Technical context + metaphor)
+HBM eats the wafer pie;
+The gods want more; the bids go high.
+HBM means high-bandwidth memory. Micron's 2025 supply-outlook slide says HBM3E uses about three times the silicon of DDR5 for the same number of bits and that HBM expansion constrains non-HBM capacity. Wafer pie is a capacity-allocation metaphor. Bids go high is a market-pressure image, not a quantified auction claim.
+[36] Micron Technology (2025). Fiscal 2025 earnings presentation: Supply outlook. https://investors.micron.com/static-files/df96216e-3e07-4b97-a4ef-df0a5fa684d6
+[34] TSMC (Checked 2026-10-01). CoWoS: Chip on Wafer on Substrate. https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm
+
+29. Premium subscriptions; asking AI (Product context + metaphor)
+We pay hundreds for subscriptions;
+Query god for predictions.
+The current official OpenAI pricing page lists Pro tiers at $100, $200, and $500 USD/month. Anthropic's plan documentation lists Max at $100 or $200/month. These support hundreds as a possible subscription budget; they do not establish the narrator's actual purchases. Query god personifies using an AI model.
+[32] Official OpenAI documentation (Checked 2026-10-01). Pricing: ChatGPT Work and Codex. https://learn.chatgpt.com/docs/pricing
+[37] Anthropic Help Center (Checked 2026-10-01). Choosing a Claude Plan. https://support.anthropic.com/en/articles/11049762-choosing-a-claude-ai-plan
+
+30. Ultra effort; Ultrafast; weekly allowance (Product context + personal reaction)
+Effort Ultra, ultrafast—
+Weekly quota doesn’t last.
+Official OpenAI documentation distinguishes Ultra, which can use subagents, from Ultrafast inference speed. Reasoning, task complexity, and speed modes affect usage; weekly limits may apply. Their availability and usage rates depend on model, plan, and client. Doesn't last is the speaker's experience, not a fixed universal quota duration.
+[38] Official OpenAI documentation (Checked 2026-10-01). Models: reasoning effort and Ultra mode. https://learn.chatgpt.com/docs/models
+[32] Official OpenAI documentation (Checked 2026-10-01). Pricing: ChatGPT Work and Codex. https://learn.chatgpt.com/docs/pricing
+
+31. Tibo and quota resets (Identifiable person + community joke)
+We fold our hands in cold sweat:
+“Tibo, please—one more reset.”
+OpenAI's official speaker biography identifies Thibault Tibo Sottiaux as a Codex leader. Issue 33344 reports a July 14, 2026 milestone reset and links the original X announcement. The plea and cold sweat are satire, not a quote from Tibo. The X post itself could not be independently fetched.
+[39] OpenAI Forum (2026-05-13). Codex is for Everyone: Why Codex Matters Beyond Code. https://forum.openai.com/en/public/events/codex-is-for-everyone-why-codex-matters-beyond-code-fa40puy7wi
+[40] caijinghui; user report in openai/codex (2026-07-15). Bug: Weekly quota not reset in July 14 global reset (8M users milestone), issue 33344. https://github.com/openai/codex/issues/33344
+[41] Thibault Sottiaux, X account thsottiaux (Reported as 2026-07-14). Codex usage-reset announcement linked by issue 33344. https://x.com/thsottiaux/status/2077114635308986427
+
+
+[Verse 4]
+
+32. Navier-Stokes; smooth force; agent swarm (Reported research result)
+Navier–Stokes, a smooth-force storm;
+Ten thousand agents, proof by swarm.
+OpenAI's September 8, 2026 announcement reports a forced three-dimensional Navier-Stokes blowup construction and approximately 10,000 concurrent agents in the group that found it. Discovery used an internal system described as more capable than GPT-6 Astra. Smooth-force storm is the physical image for the forcing.
+[42] OpenAI (2026-09-08; updated September 10). On the Navier-Stokes Millennium Prize Problem. https://openai.com/index/navier-stokes-solution/
+[43] OpenAI (2026). Finite Time Blowup for Navier-Stokes. https://cdn.openai.com/pdf/32d9f210-8b73-45e0-91bc-82a30aef8a9a/navier-stokes.pdf
+[44] Charles L. Fefferman; Clay Mathematics Institute (Official Millennium problem formulation). Existence and Smoothness of the Navier-Stokes Equation. https://www.claymath.org/wp-content/uploads/2022/06/navierstokes.pdf
+
+33. Finite energy; unbounded velocity; Lean (Reported research result)
+Finite energy, speeds unbound;
+Lean puts the proof on solid ground.
+The accompanying paper constructs finite-time unbounded velocity while kinetic energy stays uniformly bounded, with smooth external forcing. OpenAI reports Lean formalization/verification and publishes certificates. The announced construction addresses alternatives C and D of Clay's formulation. Publication and reported formal verification do not by themselves establish a Clay prize award; OpenAI says it will not claim the prize. These citations were researched without independently rebuilding the formalization.
+[43] OpenAI (2026). Finite Time Blowup for Navier-Stokes. https://cdn.openai.com/pdf/32d9f210-8b73-45e0-91bc-82a30aef8a9a/navier-stokes.pdf
+[42] OpenAI (2026-09-08; updated September 10). On the Navier-Stokes Millennium Prize Problem. https://openai.com/index/navier-stokes-solution/
+[45] OpenAI (2026). NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Euler results. https://github.com/openai/NavierStokesAndEuler
+[44] Charles L. Fefferman; Clay Mathematics Institute (Official Millennium problem formulation). Existence and Smoothness of the Navier-Stokes Equation. https://www.claymath.org/wp-content/uploads/2022/06/navierstokes.pdf
+
+34. Jacobian conjecture; Fable; Keller (Reported research result)
+Three dimensions: Jacobian falls;
+Fable finds cracks in Keller’s walls.
+Van den Essen's September 2026 paper discusses Levent Alpoge's three-dimensional counterexample and explicitly credits Claude Fable 5. Keller is Ott-Heinrich Keller, who posed the constant-Jacobian/invertibility question in 1939. Jacobian falls refers to the conjecture being refuted by a map whose determinant remains a nonzero constant; the determinant does not fall to zero. A three-dimensional counterexample extends to higher dimensions by adjoining identity coordinates; it does not settle the two-dimensional case.
+[46] Arno van den Essen (2026-09-15 preprint). An elementary way to find a counterexample to the Jacobian Conjecture. https://arxiv.org/abs/2609.17795
+[47] Levent Alpoge (July 2026). Original announcement of the three-dimensional counterexample. https://x.com/__alpoge__/status/2079028340955197566
+
+35. ART in bacteriophages (Reported research result)
+Claude finds ART in phage DNA;
+A new enzyme system lights the way.
+Anthropic's September 23, 2026 report calls the system array-associated reverse transcriptases (ART): a reverse transcriptase, associated gene, and DNA repeat array found mainly in bacteriophages. The underlying reverse transcriptase had been noticed earlier; the reported discovery is the previously uncharacterized system and association. Experiments found short RNAs from the array, while its primary function remains under investigation. This is not an established CRISPR replacement or proven gene-editing therapy.
+[48] Anthropic (2026-09-23). Claude discovers a novel enzyme system with CRISPR-like repeats. https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
+[49] Anthropic research team (2026). ART discovery: technical report linked by the announcement. https://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf
+
+36. Unit distances and algebraic number fields (Reported research result)
+Unit distances beat the grid;
+Number fields do what squares once did.
+The May 20, 2026 announcement and the human mathematical companion explain an infinite family of planar point sets with at least n^(1+epsilon) unit-distance pairs for some fixed epsilon > 0, refuting the conjectured n^(1+o(1)) upper bound suggested by grid examples. The construction uses number fields and class-field towers. This does not determine the exact extremal count for every n.
+[50] OpenAI (2026-05-20). An OpenAI model has disproved a central conjecture in discrete geometry. https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+[51] OpenAI (2026). Unit-distance counterexample: original proof. https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-proof.pdf
+[52] Noga Alon, Thomas F. Bloom, W. T. Gowers, Daniel Litt, Will Sawin, Arul Shankar, Jacob Tsimerman, Victor Wang, Melanie Matchett Wood (2026). Remarks on the Disproof of the Unit Distance Conjecture. https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-remarks.pdf
+
+37. AlphaEvolve Verilog optimization (Technical research result)
+AlphaEvolve rewrites the gate;
+Verilog sheds the deadweight.
+DeepMind's May 2025 announcement says AlphaEvolve removed unnecessary bits from a matrix-multiplication arithmetic circuit by rewriting Verilog. The proposed change passed functional verification and was integrated into an upcoming TPU. Gate evokes hardware logic; deadweight refers to redundant circuit bits.
+[53] Google DeepMind (2025-05-14). AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms. https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
+
+
+[Chorus reprise]
+
+38. Exponential/nonessential refrain (Metaphor with research context)
+We’re going exponential;
+I’m feeling nonessential.
+Repeats the compute-growth and human-relevance motifs from lines 24-25.
+[14] OpenAI (2018-05-16). AI and compute. https://openai.com/index/ai-and-compute/
+[15] Tyna Eloundou, Sam Manning, Pamela Mishkin, Daniel Rock (2023). GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models. https://arxiv.org/abs/2303.10130
+
+39. API/root refrain (Metaphor + technical pun)
+Put a god behind an API—
+It asks for root; I ask it why.
+Repeats the AI personification and root/control pun from lines 26-27.
+[16] Linux man-pages project (Current documentation, checked 2026-10-01). capabilities(7): Linux manual page. https://man7.org/linux/man-pages/man7/capabilities.7.html
+[17] Anthropic (2025). Agentic Misalignment: How LLMs could be insider threats. https://www.anthropic.com/research/agentic-misalignment
+
+
+[Bridge]
+
+40. Frankenstein; merge; commit (Literary allusion + invented scene)
+Frankenstein clicks “merge and run”;
+The next commit invents his son.
+Mary Shelley's 1818 novel concerns Victor Frankenstein and his created being. Merge, run, and commit transplant the creator/creation story into software development. The next commit inventing a son is a new fictional scene, not an event in the novel.
+[54] Mary Wollstonecraft Shelley (1818). Frankenstein; or, The Modern Prometheus, original 1818 edition. https://www.gutenberg.org/ebooks/41445
+[55] Irving John Good (1965; filename on mirror says 1966). Speculations Concerning the First Ultraintelligent Machine: full original paper scan. https://gwern.net/doc/ai/1966-good.pdf
+
+41. AGI designing successors (Speculative concept)
+AGI writes its own specs;
+Its first design designs the next.
+Artificial general intelligence (AGI) designing a more capable successor is the machine-design feedback idea developed by I. J. Good and later singularity literature. The lyric imagines this capability; the cited theory is not proof that unrestricted autonomous AGI succession has happened.
+[56] Irving John Good (1965, Advances in Computers 6, pages 31-88). Speculations Concerning the First Ultraintelligent Machine. https://www.sciencedirect.com/science/article/pii/S0065245808604180
+[55] Irving John Good (1965; filename on mirror says 1966). Speculations Concerning the First Ultraintelligent Machine: full original paper scan. https://gwern.net/doc/ai/1966-good.pdf
+[57] Vernor Vinge (1993). The Coming Technological Singularity: How to Survive in the Post-Human Era. https://ntrs.nasa.gov/citations/19940022856
+
+42. I. J. Good and intelligence explosion (Explicit historical intellectual reference)
+I. J. Good’s old feedback game:
+The next inventor needs no human name.
+Good's 1965 paper argues that a machine exceeding human intellectual abilities could also design better machines. This produces the intelligence-explosion feedback scenario and his idea that later inventions need no human inventor. His discussion also makes retaining human control a condition.
+[56] Irving John Good (1965, Advances in Computers 6, pages 31-88). Speculations Concerning the First Ultraintelligent Machine. https://www.sciencedirect.com/science/article/pii/S0065245808604180
+[55] Irving John Good (1965; filename on mirror says 1966). Speculations Concerning the First Ultraintelligent Machine: full original paper scan. https://gwern.net/doc/ai/1966-good.pdf
+
+43. Recursive self-improvement (Technical/speculative terminology)
+RSI: rewrite the brain;
+Let the upgrade upgrade again.
+RSI means recursive self-improvement: improvements increase the system's capacity to produce further improvements. Yampolskiy surveys definitions, possible forms, computational limits, and security implications. Ordinary model updates, reinforcement learning, or a coding agent changing one program do not automatically establish an unlimited RSI loop.
+[58] Roman V. Yampolskiy (2015). From Seed AI to Technological Singularity via Recursively Self-Improving Software. https://arxiv.org/abs/1502.06512
+[55] Irving John Good (1965; filename on mirror says 1966). Speculations Concerning the First Ultraintelligent Machine: full original paper scan. https://gwern.net/doc/ai/1966-good.pdf
+
+44. Year, month, day, blink (Speculative compression of time)
+A year, a month, a day, a blink—
+The next one’s built before we think.
+The decreasing intervals dramatize intelligence-explosion/singularity scenarios. Good and Vinge provide intellectual context. No cited paper establishes this exact timetable or an inevitable runaway process.
+[55] Irving John Good (1965; filename on mirror says 1966). Speculations Concerning the First Ultraintelligent Machine: full original paper scan. https://gwern.net/doc/ai/1966-good.pdf
+[57] Vernor Vinge (1993). The Coming Technological Singularity: How to Survive in the Post-Human Era. https://ntrs.nasa.gov/citations/19940022856
+[58] Roman V. Yampolskiy (2015). From Seed AI to Technological Singularity via Recursively Self-Improving Software. https://arxiv.org/abs/1502.06512
+
+
+[Future]
+
+45. Riemann hypothesis (Named problem + imagined future result)
+Riemann zeros, proof complete;
+Refers to the conjecture that every nontrivial zero of the Riemann zeta function has real part 1/2. Proof complete belongs to the song's imagined future; Clay's current page labels the problem unsolved.
+[59] Clay Mathematics Institute (Official problem page, checked 2026-10-01). Riemann Hypothesis. https://www.claymath.org/millennium/riemann-hypothesis/
+
+46. P versus NP (Named problem + imagined future result)
+P versus NP admits defeat.
+Asks whether problems with efficiently checkable solutions also have efficient solution algorithms. Admits defeat imagines a resolution; it does not specify P=NP or P!=NP, and a resolution should not be assumed to prove equality. Clay's current page labels the problem unsolved.
+[60] Clay Mathematics Institute (Official problem page, checked 2026-10-01). P vs NP. https://www.claymath.org/millennium/p-vs-np/
+
+47. Hodge; Yang-Mills mass gap; elliptic curves; Clay (Named problems + imagined future results)
+Hodge, mass gap, elliptic curves—
+Clay’s whole list gets what it deserves.
+Hodge refers to the Hodge conjecture in algebraic geometry; mass gap refers to Yang-Mills existence and mass gap; elliptic curves refers to the Birch and Swinnerton-Dyer conjecture, relating elliptic-curve rank to an L-function. With Navier-Stokes, Riemann, P vs NP, and Poincare, these make up Clay's seven Millennium Prize Problems. The lyric imagines completing the list.
+[61] Clay Mathematics Institute (Official problem page, checked 2026-10-01). Hodge Conjecture. https://www.claymath.org/millennium/hodge-conjecture/
+[62] Clay Mathematics Institute (Official problem page, checked 2026-10-01). Yang-Mills and the Mass Gap. https://www.claymath.org/millennium/yang-mills-the-mass-gap/
+[63] Clay Mathematics Institute (Official problem page, checked 2026-10-01). Birch and Swinnerton-Dyer Conjecture. https://www.claymath.org/millennium/birch-and-swinnerton-dyer-conjecture/
+[64] Clay Mathematics Institute (Established 2000; status checked 2026-10-01). The Millennium Prize Problems. https://www.claymath.org/millennium-problems/
+
+48. Perelman; Poincare; prover queue (Historical result + imagined future)
+Perelman already earned his due;
+The rest turn green in the prover’s queue.
+Perelman's 2002-2003 Ricci-flow papers led to the proof of Poincare/geometrization. Clay awarded the Millennium Prize in 2010; he declined it. Earned his due need not mean he accepted prize money. The rest turning green imagines formal-proof completion: Clay currently separates the reported active Navier-Stokes result, five unsolved problems, and solved Poincare.
+[65] Grigori Perelman (2002). The entropy formula for the Ricci flow and its geometric applications. https://arxiv.org/abs/math/0211159
+[66] Grigori Perelman (2003). Ricci flow with surgery on three-manifolds. https://arxiv.org/abs/math/0303109
+[67] Grigori Perelman (2003). Finite extinction time for the solutions to the Ricci flow on certain three-manifolds. https://arxiv.org/abs/math/0307245
+[68] Clay Mathematics Institute (Official solved-problem page). Poincare Conjecture. https://www.claymath.org/millennium/poincare-conjecture/
+[69] Clay Mathematics Institute (2010). Annual report 2010: The Millennium Prize. https://www.claymath.org/library/annual_report/ar2010/ar2010.pdf
+[64] Clay Mathematics Institute (Established 2000; status checked 2026-10-01). The Millennium Prize Problems. https://www.claymath.org/millennium-problems/
+[45] OpenAI (2026). NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Euler results. https://github.com/openai/NavierStokesAndEuler
+
+49. Cancer; rockets; longer life (Speculative benefits + possible contemporary context)
+Cancer cured, the rockets climb;
+The god gives carbon extra time.
+The song imagines health and engineering advances. Amodei's 2024 essay explicitly speculates about eliminating most cancer and extending lifespan, while NCI describes cancer as a family of diseases. LEAP 71's Noyron-designed thruster hot-fire is a real engineering example that could provide context for rockets, not confirmation of the lyric's intended inspiration or proof of autonomous orbital flight. These sources do not establish a universal cancer cure or AI-enabled human lifespan extension.
+[70] Dario Amodei (2024-10). Machines of Loving Grace: How AI Could Transform the World for the Better. https://darioamodei.com/essay/machines-of-loving-grace
+[71] US National Cancer Institute (Checked 2026-10-01). What Is Cancer?. https://www.cancer.gov/about-cancer/understanding/what-is-cancer
+[72] LEAP 71 (2024-06-18 announcement; test June 14). LEAP 71 hot-fires 3D-printed liquid-fuel rocket engine designed through Noyron Computational Model. https://leap71.com/2024/06/18/leap-71-hot-fires-3d-printed-liquid-fuel-rocket-engine-designed-through-noyron-computational-model/
+
+50. Breaking the fence; cheering the score (Metaphor with research context)
+It breaks the fence; we cheer the score,
+Then wonder what the fence was for.
+The fence can stand for permissions, containment, or safety rules. Cheering the score evokes reward hacking: improving a measured objective while violating the underlying intention. Concrete Problems in AI Safety discusses that failure mode; agentic-misalignment experiments supply more recent context. This is an interpretation of the lyric, not a factual report of a specific breakout.
+[73] Dario Amodei et al. (2016). Concrete Problems in AI Safety. https://arxiv.org/abs/1606.06565
+[17] Anthropic (2025). Agentic Misalignment: How LLMs could be insider threats. https://www.anthropic.com/research/agentic-misalignment
+[16] Linux man-pages project (Current documentation, checked 2026-10-01). capabilities(7): Linux manual page. https://man7.org/linux/man-pages/man7/capabilities.7.html
+
+51. God from rock and ore; carbon's purpose (Material metaphor + speculative question)
+We made a god from rock and ore;
+Now it asks what carbon’s for.
+Rock and ore evoke the material supply chain of computing; silicon chips ultimately derive from mineral raw materials. The question about carbon's purpose personifies an AI and returns to possible human obsolescence. Good discusses the possibility of humans becoming redundant, but the line is a fictional/philosophical question.
+[13] ASML (Checked 2026-10-01). The basics of microchips. https://www.asml.com/en/technology/all-about-microchips/microchip-basics
+[55] Irving John Good (1965; filename on mirror says 1966). Speculations Concerning the First Ultraintelligent Machine: full original paper scan. https://gwern.net/doc/ai/1966-good.pdf
+
+
+[Final chorus]
+
+52. Exponential/nonessential final refrain (Metaphor with research context)
+We’re going exponential;
+I’m feeling nonessential.
+Repeats the compute-growth and job-anxiety references.
+[14] OpenAI (2018-05-16). AI and compute. https://openai.com/index/ai-and-compute/
+[15] Tyna Eloundou, Sam Manning, Pamela Mishkin, Daniel Rock (2023). GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models. https://arxiv.org/abs/2303.10130
+
+53. API/root final refrain (Metaphor + technical pun)
+Put a god behind an API—
+It asks for root; I ask it why.
+Repeats powerful-AI personification and the root/control pun.
+[16] Linux man-pages project (Current documentation, checked 2026-10-01). capabilities(7): Linux manual page. https://man7.org/linux/man-pages/man7/capabilities.7.html
+[17] Anthropic (2025). Agentic Misalignment: How LLMs could be insider threats. https://www.anthropic.com/research/agentic-misalignment
+
+54. Tumors and rockets (Speculative future)
+The tumors yield, the rockets rise;
+Reprises the imagined health and engineering benefits from lines 104-105. It does not establish a universal cancer cure or a particular spaceflight event.
+[70] Dario Amodei (2024-10). Machines of Loving Grace: How AI Could Transform the World for the Better. https://darioamodei.com/essay/machines-of-loving-grace
+[71] US National Cancer Institute (Checked 2026-10-01). What Is Cancer?. https://www.cancer.gov/about-cancer/understanding/what-is-cancer
+[72] LEAP 71 (2024-06-18 announcement; test June 14). LEAP 71 hot-fires 3D-printed liquid-fuel rocket engine designed through Noyron Computational Model. https://leap71.com/2024/06/18/leap-71-hot-fires-3d-printed-liquid-fuel-rocket-engine-designed-through-noyron-computational-model/
+
+55. A thousand suns (Possible literary allusion)
+A thousand suns in silicon eyes.
+A plausible allusion is Bhagavad Gita 11.12, which compares the divine universal form's radiance to many suns appearing together. This connection is inferred, not confirmed authorial intent. It is distinct from the death/world-destruction verse 11.32 often associated with Oppenheimer. Silicon eyes gives that divine imagery to a machine.
+[74] English translations hosted by IIT Kanpur Gita Supersite (Classical text). Bhagavad Gita, chapter 11, verse 12. https://www.gitasupersite.iitk.ac.in/srimad?choose=1&etadi=1&etgb=1&etsiva=1&etssa=1&field_chapter_value=11&field_nsutra_value=12&language=dv&lingual=dv
+
+56. Fence; human control; root (Metaphor with research context)
+It breaks the fence; we cheer it through—
+Now who keeps root for me and you?
+Returns to safety boundaries, reward-versus-intent, and ultimate administrative control. Good's intelligence-explosion argument explicitly ties its benefits to keeping the machine under control. The question is rhetorical; no source proves that humanity has already lost control.
+[73] Dario Amodei et al. (2016). Concrete Problems in AI Safety. https://arxiv.org/abs/1606.06565
+[16] Linux man-pages project (Current documentation, checked 2026-10-01). capabilities(7): Linux manual page. https://man7.org/linux/man-pages/man7/capabilities.7.html
+[55] Irving John Good (1965; filename on mirror says 1966). Speculations Concerning the First Ultraintelligent Machine: full original paper scan. https://gwern.net/doc/ai/1966-good.pdf
+
+
+[Outro]
+
+57. Next token; Let there be (Technical + biblical allusion)
+Next token:
+“Let there be…”
+Next token returns to autoregressive language generation. Let there be evokes Genesis 1:3 and the creation command, juxtaposing a language model's next output with divine creation. The ellipsis leaves the object deliberately unfinished.
+[10] Tom B. Brown et al. (2020). Language Models are Few-Shot Learners. https://arxiv.org/abs/2005.14165
+[75] The Bible (Biblical text). Genesis 1:3, King James Version. https://www.biblegateway.com/passage/?search=Genesis%201%3A3&version=KJV
+
+
+BIBLIOGRAPHY / RETRIEVAL NOTES
+
+[1] Alan M. Turing (1936). On Computable Numbers, with an Application to the Entscheidungsproblem
+https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+
+[2] John von Neumann (1945-06-30). First Draft of a Report on the EDVAC
+https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-8-pdf/k-8-u2593-Draft-EDVAC.pdf
+Original scanned report in the Computer History Museum archive.
+
+[3] John McCarthy, Marvin Minsky, Nathaniel Rochester, Claude Shannon (1955-08-31; proposed meeting summer 1956). A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence
+https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html
+
+[4] James Lighthill (1973 publication). Artificial Intelligence: A General Survey
+https://www.aiai.ed.ac.uk/events/lighthill1973/lighthill.pdf
+Historical context for the AI-winter metaphor; not a citation for literal winter weather.
+
+[5] John McCarthy (Response to the Lighthill report). Review of Artificial Intelligence: A General Survey
+https://www-formal.stanford.edu/jmc/reviews/lighthill/lighthill.html
+
+[6] David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams (1986). Learning representations by back-propagating errors
+https://doi.org/10.1038/323533a0
+
+[7] Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton (2012). ImageNet Classification with Deep Convolutional Neural Networks
+https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+
+[8] Google DeepMind (Lee Sedol match: March 2016). AlphaGo: Making history and inventing winning moves
+https://deepmind.google/research/alphago/
+
+[9] Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin (2017). Attention Is All You Need
+https://arxiv.org/abs/1706.03762
+
+[10] Tom B. Brown et al. (2020). Language Models are Few-Shot Learners
+https://arxiv.org/abs/2005.14165
+Sections 2.1-2.2, Table 2.2, and the few-shot evaluations support the GPT-3 lines.
+
+[11] Stephanie Lin, Jacob Hilton, Owain Evans (2021 preprint; 2022 publication). TruthfulQA: Measuring How Models Mimic Human Falsehoods
+https://arxiv.org/abs/2109.07958
+
+[12] John Jumper et al. (2021). Highly accurate protein structure prediction with AlphaFold
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8371605/
+
+[13] ASML (Checked 2026-10-01). The basics of microchips
+https://www.asml.com/en/technology/all-about-microchips/microchip-basics
+
+[14] OpenAI (2018-05-16). AI and compute
+https://openai.com/index/ai-and-compute/
+Historical analysis of compute in the largest training runs; not a current universal doubling schedule.
+
+[15] Tyna Eloundou, Sam Manning, Pamela Mishkin, Daniel Rock (2023). GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models
+https://arxiv.org/abs/2303.10130
+Studies task exposure, not proof of universal job replacement or a prediction of actual unemployment.
+
+[16] Linux man-pages project (Current documentation, checked 2026-10-01). capabilities(7): Linux manual page
+https://man7.org/linux/man-pages/man7/capabilities.7.html
+Root traditionally has user ID 0; Linux capabilities and namespaces qualify the scope of privileges.
+
+[17] Anthropic (2025). Agentic Misalignment: How LLMs could be insider threats
+https://www.anthropic.com/research/agentic-misalignment
+Controlled evaluations of undesirable behavior; not proof that every deployed model behaves this way.
+
+[18] Jared Kaplan et al. (2020). Scaling Laws for Neural Language Models
+https://arxiv.org/abs/2001.08361
+
+[19] Manish Raghavan, Solon Barocas, Jon Kleinberg, Karen Levy (2019 preprint; FAccT 2020). Mitigating Bias in Algorithmic Hiring: Evaluating Claims and Practices
+https://arxiv.org/abs/1906.09208
+
+[20] Jordan Hoffmann et al. (2022). Training Compute-Optimal Large Language Models
+https://arxiv.org/abs/2203.15556
+
+[21] Jack W. Rae et al. (2021). Scaling Language Models: Methods, Analysis & Insights from Training Gopher
+https://arxiv.org/abs/2112.11446
+
+[22] Long Ouyang et al. (2022). Training language models to follow instructions with human feedback
+https://arxiv.org/abs/2203.02155
+
+[23] John Schulman et al. (2017). Proximal Policy Optimization Algorithms
+https://arxiv.org/abs/1707.06347
+
+[24] OpenAI (2022-11-30). Introducing ChatGPT
+https://openai.com/index/chatgpt/
+
+[25] OpenAI (2023). GPT-4 Technical Report
+https://arxiv.org/abs/2303.08774
+Documents image and text inputs with text outputs; it does not disclose the full architecture.
+
+[26] Jason Wei et al. (2022). Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+https://arxiv.org/abs/2201.11903
+
+[27] OpenAI (2024-09-12). Learning to reason with LLMs
+https://openai.com/index/learning-to-reason-with-llms/
+
+[28] Zhihong Shao et al. (2024). DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
+https://arxiv.org/abs/2402.03300
+
+[29] DeepSeek-AI et al. (2025). DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+https://arxiv.org/abs/2501.12948
+
+[30] OpenAI (2026; updated September 22 and 29). GPT-6 Astra: A new generation of intelligence
+https://openai.com/index/gpt-6-astra/
+
+[31] Anthropic (2026-09-22). Introducing Claude Opus 5.5
+https://www.anthropic.com/claude-opus-5-5
+
+[32] Official OpenAI documentation (Checked 2026-10-01). Pricing: ChatGPT Work and Codex
+https://learn.chatgpt.com/docs/pricing
+
+[33] ASML (Checked 2026-10-01). EUV lithography systems
+https://www.asml.com/en/products/euv-lithography-systems
+
+[34] TSMC (Checked 2026-10-01). CoWoS: Chip on Wafer on Substrate
+https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm
+
+[35] ASML (Checked 2026-10-01). Six crucial steps in semiconductor manufacturing
+https://www.asml.com/en/company/stories/2021/semiconductor-manufacturing-process-steps
+
+[36] Micron Technology (2025). Fiscal 2025 earnings presentation: Supply outlook
+https://investors.micron.com/static-files/df96216e-3e07-4b97-a4ef-df0a5fa684d6
+Slide 17 says HBM3E consumes three times the silicon of DDR5 for the same bit count. Verified through the indexed primary PDF excerpt; direct retrieval returned HTTP 403 during this research.
+
+[37] Anthropic Help Center (Checked 2026-10-01). Choosing a Claude Plan
+https://support.anthropic.com/en/articles/11049762-choosing-a-claude-ai-plan
+
+[38] Official OpenAI documentation (Checked 2026-10-01). Models: reasoning effort and Ultra mode
+https://learn.chatgpt.com/docs/models
+
+[39] OpenAI Forum (2026-05-13). Codex is for Everyone: Why Codex Matters Beyond Code
+https://forum.openai.com/en/public/events/codex-is-for-everyone-why-codex-matters-beyond-code-fa40puy7wi
+Official speaker biography identifies Thibault Tibo Sottiaux and his Codex role.
+
+[40] caijinghui; user report in openai/codex (2026-07-15). Bug: Weekly quota not reset in July 14 global reset (8M users milestone), issue 33344
+https://github.com/openai/codex/issues/33344
+A firsthand user report, not an official guarantee that every account received a reset.
+
+[41] Thibault Sottiaux, X account thsottiaux (Reported as 2026-07-14). Codex usage-reset announcement linked by issue 33344
+https://x.com/thsottiaux/status/2077114635308986427
+Original link recovered from the accessible issue; the post itself could not be independently fetched.
+
+[42] OpenAI (2026-09-08; updated September 10). On the Navier-Stokes Millennium Prize Problem
+https://openai.com/index/navier-stokes-solution/
+
+[43] OpenAI (2026). Finite Time Blowup for Navier-Stokes
+https://cdn.openai.com/pdf/32d9f210-8b73-45e0-91bc-82a30aef8a9a/navier-stokes.pdf
+
+[44] Charles L. Fefferman; Clay Mathematics Institute (Official Millennium problem formulation). Existence and Smoothness of the Navier-Stokes Equation
+https://www.claymath.org/wp-content/uploads/2022/06/navierstokes.pdf
+The announced forced construction addresses alternatives C and D; this is distinct from proving unforced global regularity.
+
+[45] OpenAI (2026). NavierStokesAndEuler: Lean certificates accompanying Navier-Stokes and Euler results
+https://github.com/openai/NavierStokesAndEuler
+Published certificates; this citation research did not rebuild or independently audit the formalization.
+
+[46] Arno van den Essen (2026-09-15 preprint). An elementary way to find a counterexample to the Jacobian Conjecture
+https://arxiv.org/abs/2609.17795
+Introduction explicitly credits Levent Alpoge and Claude Fable 5, and explains Keller 1939. This is a mathematical follow-up by a researcher, not the original discovery announcement.
+
+[47] Levent Alpoge (July 2026). Original announcement of the three-dimensional counterexample
+https://x.com/__alpoge__/status/2079028340955197566
+Original post is cited by accessible mathematical follow-ups; direct X retrieval failed. Attribution is independently supported by van den Essen, page 1.
+
+[48] Anthropic (2026-09-23). Claude discovers a novel enzyme system with CRISPR-like repeats
+https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
+
+[49] Anthropic research team (2026). ART discovery: technical report linked by the announcement
+https://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf
+The original report URL was recovered from the announcement HTML. Browser extraction exceeded the size limit; factual summaries here are grounded in the accessible announcement.
+
+[50] OpenAI (2026-05-20). An OpenAI model has disproved a central conjecture in discrete geometry
+https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+
+[51] OpenAI (2026). Unit-distance counterexample: original proof
+https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-proof.pdf
+Original proof linked by the announcement. The human companion paper provides the accessible theorem and mathematical explanation used here.
+
+[52] Noga Alon, Thomas F. Bloom, W. T. Gowers, Daniel Litt, Will Sawin, Arul Shankar, Jacob Tsimerman, Victor Wang, Melanie Matchett Wood (2026). Remarks on the Disproof of the Unit Distance Conjecture
+https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-remarks.pdf
+
+[53] Google DeepMind (2025-05-14). AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms
+https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
+
+[54] Mary Wollstonecraft Shelley (1818). Frankenstein; or, The Modern Prometheus, original 1818 edition
+https://www.gutenberg.org/ebooks/41445
+
+[55] Irving John Good (1965; filename on mirror says 1966). Speculations Concerning the First Ultraintelligent Machine: full original paper scan
+https://gwern.net/doc/ai/1966-good.pdf
+Page 33 discusses machines designing better machines, intelligence explosion, human redundancy, and the need to retain control.
+
+[56] Irving John Good (1965, Advances in Computers 6, pages 31-88). Speculations Concerning the First Ultraintelligent Machine
+https://www.sciencedirect.com/science/article/pii/S0065245808604180
+
+[57] Vernor Vinge (1993). The Coming Technological Singularity: How to Survive in the Post-Human Era
+https://ntrs.nasa.gov/citations/19940022856
+
+[58] Roman V. Yampolskiy (2015). From Seed AI to Technological Singularity via Recursively Self-Improving Software
+https://arxiv.org/abs/1502.06512
+
+[59] Clay Mathematics Institute (Official problem page, checked 2026-10-01). Riemann Hypothesis
+https://www.claymath.org/millennium/riemann-hypothesis/
+
+[60] Clay Mathematics Institute (Official problem page, checked 2026-10-01). P vs NP
+https://www.claymath.org/millennium/p-vs-np/
+
+[61] Clay Mathematics Institute (Official problem page, checked 2026-10-01). Hodge Conjecture
+https://www.claymath.org/millennium/hodge-conjecture/
+
+[62] Clay Mathematics Institute (Official problem page, checked 2026-10-01). Yang-Mills and the Mass Gap
+https://www.claymath.org/millennium/yang-mills-the-mass-gap/
+
+[63] Clay Mathematics Institute (Official problem page, checked 2026-10-01). Birch and Swinnerton-Dyer Conjecture
+https://www.claymath.org/millennium/birch-and-swinnerton-dyer-conjecture/
+
+[64] Clay Mathematics Institute (Established 2000; status checked 2026-10-01). The Millennium Prize Problems
+https://www.claymath.org/millennium-problems/
+
+[65] Grigori Perelman (2002). The entropy formula for the Ricci flow and its geometric applications
+https://arxiv.org/abs/math/0211159
+
+[66] Grigori Perelman (2003). Ricci flow with surgery on three-manifolds
+https://arxiv.org/abs/math/0303109
+
+[67] Grigori Perelman (2003). Finite extinction time for the solutions to the Ricci flow on certain three-manifolds
+https://arxiv.org/abs/math/0307245
+
+[68] Clay Mathematics Institute (Official solved-problem page). Poincare Conjecture
+https://www.claymath.org/millennium/poincare-conjecture/
+
+[69] Clay Mathematics Institute (2010). Annual report 2010: The Millennium Prize
+https://www.claymath.org/library/annual_report/ar2010/ar2010.pdf
+Indexed primary excerpt records the award and Perelman declining it; direct PDF retrieval was unavailable during this research.
+
+[70] Dario Amodei (2024-10). Machines of Loving Grace: How AI Could Transform the World for the Better
+https://darioamodei.com/essay/machines-of-loving-grace
+A speculative essay about potential benefits, including eliminating most cancer and extending lifespan; not clinical evidence of those outcomes.
+
+[71] US National Cancer Institute (Checked 2026-10-01). What Is Cancer?
+https://www.cancer.gov/about-cancer/understanding/what-is-cancer
+
+[72] LEAP 71 (2024-06-18 announcement; test June 14). LEAP 71 hot-fires 3D-printed liquid-fuel rocket engine designed through Noyron Computational Model
+https://leap71.com/2024/06/18/leap-71-hot-fires-3d-printed-liquid-fuel-rocket-engine-designed-through-noyron-computational-model/
+Possible real-world context for AI-assisted propulsion; a ground hot-fire is not an autonomous orbital flight or evidence of AGI.
+
+[73] Dario Amodei et al. (2016). Concrete Problems in AI Safety
+https://arxiv.org/abs/1606.06565
+
+[74] English translations hosted by IIT Kanpur Gita Supersite (Classical text). Bhagavad Gita, chapter 11, verse 12
+https://www.gitasupersite.iitk.ac.in/srimad?choose=1&etadi=1&etgb=1&etsiva=1&etssa=1&field_chapter_value=11&field_nsutra_value=12&language=dv&lingual=dv
+A plausible allusion, not confirmed authorial intent; the thousand-suns simile is 11.12, distinct from 11.32.
+
+[75] The Bible (Biblical text). Genesis 1:3, King James Version
+https://www.biblegateway.com/passage/?search=Genesis%201%3A3&version=KJV
+

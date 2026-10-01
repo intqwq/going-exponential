@@ -1,0 +1,4108 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "section": "Opening",
+   "text": "Turing’s tape: the rules encoded;",
+   "start": 17.86,
+   "end": 19.88,
+   "words": [
+    {
+     "w": "Turing’s",
+     "start": 17.86,
+     "end": 18.22,
+     "p": 0.308
+    },
+    {
+     "w": "tape:",
+     "start": 18.22,
+     "end": 18.62,
+     "p": 0.04
+    },
+    {
+     "w": "the",
+     "start": 18.64,
+     "end": 18.86,
+     "p": 0.793
+    },
+    {
+     "w": "rules",
+     "start": 18.88,
+     "end": 19.12,
+     "p": 0.935
+    },
+    {
+     "w": "encoded;",
+     "start": 19.12,
+     "end": 19.88,
+     "p": 0.668
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "section": "Opening",
+   "text": "Von Neumann’s draft: instructions loaded.",
+   "start": 19.98,
+   "end": 22.26,
+   "words": [
+    {
+     "w": "Von",
+     "start": 19.98,
+     "end": 20.02,
+     "p": 0.173
+    },
+    {
+     "w": "Neumann’s",
+     "start": 20.02,
+     "end": 20.56,
+     "p": 0.78
+    },
+    {
+     "w": "draft:",
+     "start": 20.56,
+     "end": 20.9,
+     "p": 0.71
+    },
+    {
+     "w": "instructions",
+     "start": 21.02,
+     "end": 21.22,
+     "p": 0.936
+    },
+    {
+     "w": "loaded.",
+     "start": 21.22,
+     "end": 22.26,
+     "p": 0.586
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "section": "Opening",
+   "text": "Dartmouth summer, winter snow;",
+   "start": 22.42,
+   "end": 24.44,
+   "words": [
+    {
+     "w": "Dartmouth",
+     "start": 22.42,
+     "end": 22.62,
+     "p": 0.305
+    },
+    {
+     "w": "summer,",
+     "start": 22.62,
+     "end": 23.18,
+     "p": 0.36
+    },
+    {
+     "w": "winter",
+     "start": 23.18,
+     "end": 23.76,
+     "p": 0.916
+    },
+    {
+     "w": "snow;",
+     "start": 23.76,
+     "end": 24.44,
+     "p": 0.443
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "section": "Opening",
+   "text": "Backprop found which way to go.",
+   "start": 24.72,
+   "end": 26.58,
+   "words": [
+    {
+     "w": "Backprop",
+     "start": 24.72,
+     "end": 25.08,
+     "p": 0.783
+    },
+    {
+     "w": "found",
+     "start": 25.08,
+     "end": 25.34,
+     "p": 0.286
+    },
+    {
+     "w": "which",
+     "start": 25.34,
+     "end": 25.66,
+     "p": 0.73
+    },
+    {
+     "w": "way",
+     "start": 25.66,
+     "end": 25.92,
+     "p": 0.994
+    },
+    {
+     "w": "to",
+     "start": 25.92,
+     "end": 26.3,
+     "p": 0.992
+    },
+    {
+     "w": "go.",
+     "start": 26.3,
+     "end": 26.58,
+     "p": 0.575
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "section": "Opening",
+   "text": "AlexNet, then AlphaGo—",
+   "start": 26.8,
+   "end": 28.88,
+   "words": [
+    {
+     "w": "AlexNet,",
+     "start": 26.8,
+     "end": 27.7,
+     "p": 0.494
+    },
+    {
+     "w": "then",
+     "start": 27.7,
+     "end": 28.08,
+     "p": 0.961
+    },
+    {
+     "w": "AlphaGo—",
+     "start": 28.08,
+     "end": 28.88,
+     "p": 0.608
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "section": "Opening",
+   "text": "Move thirty-seven stole the show.",
+   "start": 29.0,
+   "end": 31.18,
+   "words": [
+    {
+     "w": "Move",
+     "start": 29.0,
+     "end": 29.0,
+     "p": 0.015
+    },
+    {
+     "w": "thirty-seven",
+     "start": 29.0,
+     "end": 29.98,
+     "p": 0.578
+    },
+    {
+     "w": "stole",
+     "start": 29.98,
+     "end": 30.38,
+     "p": 0.162
+    },
+    {
+     "w": "the",
+     "start": 30.38,
+     "end": 30.88,
+     "p": 0.991
+    },
+    {
+     "w": "show.",
+     "start": 30.88,
+     "end": 31.18,
+     "p": 0.564
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "section": "Opening",
+   "text": "Eight names, attention, twenty-seventeen;",
+   "start": 31.28,
+   "end": 33.46,
+   "words": [
+    {
+     "w": "Eight",
+     "start": 31.28,
+     "end": 31.34,
+     "p": 0.878
+    },
+    {
+     "w": "names,",
+     "start": 31.34,
+     "end": 31.94,
+     "p": 0.716
+    },
+    {
+     "w": "attention,",
+     "start": 31.94,
+     "end": 32.34,
+     "p": 0.273
+    },
+    {
+     "w": "twenty-seventeen;",
+     "start": 32.34,
+     "end": 33.46,
+     "p": 0.691
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "section": "Opening",
+   "text": "Three years later, GPT-3 hits the screen.",
+   "start": 33.62,
+   "end": 36.48,
+   "words": [
+    {
+     "w": "Three",
+     "start": 33.62,
+     "end": 33.88,
+     "p": 0.84
+    },
+    {
+     "w": "years",
+     "start": 33.88,
+     "end": 34.22,
+     "p": 0.994
+    },
+    {
+     "w": "later,",
+     "start": 34.22,
+     "end": 34.6,
+     "p": 0.85
+    },
+    {
+     "w": "GPT-3",
+     "start": 34.6,
+     "end": 35.3,
+     "p": 0.869
+    },
+    {
+     "w": "hits",
+     "start": 35.3,
+     "end": 35.6,
+     "p": 0.985
+    },
+    {
+     "w": "the",
+     "start": 35.6,
+     "end": 35.86,
+     "p": 0.998
+    },
+    {
+     "w": "screen.",
+     "start": 35.86,
+     "end": 36.48,
+     "p": 0.862
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "section": "Verse 1",
+   "text": "One-seventy-five billion weights;",
+   "start": 36.98,
+   "end": 38.74,
+   "words": [
+    {
+     "w": "One-seventy-five",
+     "start": 36.98,
+     "end": 37.76,
+     "p": 0.861
+    },
+    {
+     "w": "billion",
+     "start": 37.76,
+     "end": 38.08,
+     "p": 0.933
+    },
+    {
+     "w": "weights;",
+     "start": 38.08,
+     "end": 38.74,
+     "p": 0.181
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "section": "Verse 1",
+   "text": "The autocomplete graduates.",
+   "start": 39.22,
+   "end": 40.96,
+   "words": [
+    {
+     "w": "The",
+     "start": 39.22,
+     "end": 39.32,
+     "p": 0.648
+    },
+    {
+     "w": "autocomplete",
+     "start": 39.32,
+     "end": 39.94,
+     "p": 0.922
+    },
+    {
+     "w": "graduates.",
+     "start": 39.94,
+     "end": 40.96,
+     "p": 0.06
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "section": "Verse 1",
+   "text": "A few-shot prompt, no SGD;",
+   "start": 41.1,
+   "end": 43.1,
+   "words": [
+    {
+     "w": "A",
+     "start": 41.1,
+     "end": 41.22,
+     "p": 0.047
+    },
+    {
+     "w": "few-shot",
+     "start": 41.28,
+     "end": 41.56,
+     "p": 0.654
+    },
+    {
+     "w": "prompt,",
+     "start": 41.56,
+     "end": 42.08,
+     "p": 0.264
+    },
+    {
+     "w": "no",
+     "start": 42.08,
+     "end": 42.18,
+     "p": 0.94
+    },
+    {
+     "w": "SGD;",
+     "start": 42.18,
+     "end": 43.1,
+     "p": 0.626
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "section": "Verse 1",
+   "text": "Same frozen weights, new tricks for me.",
+   "start": 43.26,
+   "end": 45.4,
+   "words": [
+    {
+     "w": "Same",
+     "start": 43.26,
+     "end": 43.3,
+     "p": 0.227
+    },
+    {
+     "w": "frozen",
+     "start": 43.3,
+     "end": 43.7,
+     "p": 0.934
+    },
+    {
+     "w": "weights,",
+     "start": 43.7,
+     "end": 44.34,
+     "p": 0.713
+    },
+    {
+     "w": "new",
+     "start": 44.36,
+     "end": 44.46,
+     "p": 0.87
+    },
+    {
+     "w": "tricks",
+     "start": 44.46,
+     "end": 44.76,
+     "p": 0.975
+    },
+    {
+     "w": "for",
+     "start": 44.76,
+     "end": 45.04,
+     "p": 0.977
+    },
+    {
+     "w": "me.",
+     "start": 45.04,
+     "end": 45.4,
+     "p": 0.767
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "section": "Verse 1",
+   "text": "We fed it books, then watched it write;",
+   "start": 45.56,
+   "end": 47.76,
+   "words": [
+    {
+     "w": "We",
+     "start": 45.56,
+     "end": 45.58,
+     "p": 0.89
+    },
+    {
+     "w": "fed",
+     "start": 45.58,
+     "end": 45.92,
+     "p": 0.871
+    },
+    {
+     "w": "it",
+     "start": 45.92,
+     "end": 46.08,
+     "p": 0.996
+    },
+    {
+     "w": "books,",
+     "start": 46.08,
+     "end": 46.54,
+     "p": 0.86
+    },
+    {
+     "w": "then",
+     "start": 46.54,
+     "end": 46.74,
+     "p": 0.959
+    },
+    {
+     "w": "watched",
+     "start": 46.74,
+     "end": 47.06,
+     "p": 0.992
+    },
+    {
+     "w": "it",
+     "start": 47.06,
+     "end": 47.26,
+     "p": 0.996
+    },
+    {
+     "w": "write;",
+     "start": 47.26,
+     "end": 47.76,
+     "p": 0.238
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "section": "Verse 1",
+   "text": "It learned to sound like it was right.",
+   "start": 47.94,
+   "end": 50.3,
+   "words": [
+    {
+     "w": "It",
+     "start": 47.94,
+     "end": 47.98,
+     "p": 0.663
+    },
+    {
+     "w": "learned",
+     "start": 47.98,
+     "end": 48.32,
+     "p": 0.956
+    },
+    {
+     "w": "to",
+     "start": 48.32,
+     "end": 48.48,
+     "p": 0.974
+    },
+    {
+     "w": "sound",
+     "start": 48.48,
+     "end": 48.76,
+     "p": 0.985
+    },
+    {
+     "w": "like",
+     "start": 48.76,
+     "end": 49.1,
+     "p": 0.969
+    },
+    {
+     "w": "it",
+     "start": 49.1,
+     "end": 49.36,
+     "p": 0.987
+    },
+    {
+     "w": "was",
+     "start": 49.36,
+     "end": 49.64,
+     "p": 0.993
+    },
+    {
+     "w": "right.",
+     "start": 49.64,
+     "end": 50.3,
+     "p": 0.763
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "section": "Verse 1",
+   "text": "AlphaFold: the shapes unfold;",
+   "start": 50.48,
+   "end": 52.58,
+   "words": [
+    {
+     "w": "AlphaFold:",
+     "start": 50.48,
+     "end": 51.18,
+     "p": 0.392
+    },
+    {
+     "w": "the",
+     "start": 51.18,
+     "end": 51.32,
+     "p": 0.623
+    },
+    {
+     "w": "shapes",
+     "start": 51.32,
+     "end": 51.66,
+     "p": 0.985
+    },
+    {
+     "w": "unfold;",
+     "start": 51.66,
+     "end": 52.58,
+     "p": 0.657
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "section": "Verse 1",
+   "text": "Silicon studies carbon’s folds.",
+   "start": 52.6,
+   "end": 54.9,
+   "words": [
+    {
+     "w": "Silicon",
+     "start": 52.6,
+     "end": 52.88,
+     "p": 0.597
+    },
+    {
+     "w": "studies",
+     "start": 52.88,
+     "end": 53.32,
+     "p": 0.732
+    },
+    {
+     "w": "carbon’s",
+     "start": 53.32,
+     "end": 54.32,
+     "p": 0.107
+    },
+    {
+     "w": "folds.",
+     "start": 54.32,
+     "end": 54.9,
+     "p": 0.601
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "section": "Chorus",
+   "text": "We’re going exponential;",
+   "start": 55.58,
+   "end": 57.14,
+   "words": [
+    {
+     "w": "We’re",
+     "start": 55.58,
+     "end": 55.68,
+     "p": 0.476
+    },
+    {
+     "w": "going",
+     "start": 55.68,
+     "end": 55.98,
+     "p": 0.908
+    },
+    {
+     "w": "exponential;",
+     "start": 55.98,
+     "end": 57.14,
+     "p": 0.614
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "section": "Chorus",
+   "text": "I’m feeling nonessential.",
+   "start": 57.56,
+   "end": 58.96,
+   "words": [
+    {
+     "w": "I’m",
+     "start": 57.56,
+     "end": 57.72,
+     "p": 0.807
+    },
+    {
+     "w": "feeling",
+     "start": 57.72,
+     "end": 58.16,
+     "p": 0.926
+    },
+    {
+     "w": "nonessential.",
+     "start": 58.16,
+     "end": 58.96,
+     "p": 0.345
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "section": "Chorus",
+   "text": "Put a god behind an API—",
+   "start": 59.28,
+   "end": 61.24,
+   "words": [
+    {
+     "w": "Put",
+     "start": 59.28,
+     "end": 59.3,
+     "p": 0.948
+    },
+    {
+     "w": "a",
+     "start": 59.3,
+     "end": 59.5,
+     "p": 0.99
+    },
+    {
+     "w": "god",
+     "start": 59.5,
+     "end": 59.7,
+     "p": 0.472
+    },
+    {
+     "w": "behind",
+     "start": 59.7,
+     "end": 60.16,
+     "p": 0.977
+    },
+    {
+     "w": "an",
+     "start": 60.16,
+     "end": 60.68,
+     "p": 0.964
+    },
+    {
+     "w": "API—",
+     "start": 60.68,
+     "end": 61.24,
+     "p": 0.472
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "section": "Chorus",
+   "text": "It asks for root; I ask it why.",
+   "start": 61.66,
+   "end": 63.76,
+   "words": [
+    {
+     "w": "It",
+     "start": 61.66,
+     "end": 61.74,
+     "p": 0.815
+    },
+    {
+     "w": "asks",
+     "start": 61.74,
+     "end": 61.98,
+     "p": 0.727
+    },
+    {
+     "w": "for",
+     "start": 61.98,
+     "end": 62.24,
+     "p": 0.988
+    },
+    {
+     "w": "root;",
+     "start": 62.24,
+     "end": 62.62,
+     "p": 0.12
+    },
+    {
+     "w": "I",
+     "start": 62.62,
+     "end": 62.82,
+     "p": 0.543
+    },
+    {
+     "w": "ask",
+     "start": 62.82,
+     "end": 63.16,
+     "p": 0.878
+    },
+    {
+     "w": "it",
+     "start": 63.16,
+     "end": 63.38,
+     "p": 0.127
+    },
+    {
+     "w": "why.",
+     "start": 63.38,
+     "end": 63.76,
+     "p": 0.572
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "section": "Chorus",
+   "text": "Double the FLOPs, double the runs—",
+   "start": 64.16,
+   "end": 65.78,
+   "words": [
+    {
+     "w": "Double",
+     "start": 64.16,
+     "end": 64.4,
+     "p": 0.802
+    },
+    {
+     "w": "the",
+     "start": 64.4,
+     "end": 64.56,
+     "p": 0.032
+    },
+    {
+     "w": "FLOPs,",
+     "start": 64.56,
+     "end": 65.0,
+     "p": 0.56
+    },
+    {
+     "w": "double",
+     "start": 65.0,
+     "end": 65.24,
+     "p": 0.883
+    },
+    {
+     "w": "the",
+     "start": 65.24,
+     "end": 65.44,
+     "p": 0.993
+    },
+    {
+     "w": "runs—",
+     "start": 65.44,
+     "end": 65.78,
+     "p": 0.378
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "section": "Chorus",
+   "text": "Look what carbon’s gone and done.",
+   "start": 65.92,
+   "end": 68.32,
+   "words": [
+    {
+     "w": "Look",
+     "start": 65.92,
+     "end": 65.96,
+     "p": 0.035
+    },
+    {
+     "w": "what",
+     "start": 65.96,
+     "end": 66.16,
+     "p": 0.867
+    },
+    {
+     "w": "carbon’s",
+     "start": 66.16,
+     "end": 66.84,
+     "p": 0.126
+    },
+    {
+     "w": "gone",
+     "start": 66.84,
+     "end": 67.08,
+     "p": 0.913
+    },
+    {
+     "w": "and",
+     "start": 67.08,
+     "end": 67.32,
+     "p": 0.28
+    },
+    {
+     "w": "done.",
+     "start": 67.32,
+     "end": 68.32,
+     "p": 0.075
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "section": "Chorus",
+   "text": "We gave the sand a job to do;",
+   "start": 68.42,
+   "end": 70.56,
+   "words": [
+    {
+     "w": "We",
+     "start": 68.42,
+     "end": 68.42,
+     "p": 0.541
+    },
+    {
+     "w": "gave",
+     "start": 68.42,
+     "end": 68.7,
+     "p": 0.944
+    },
+    {
+     "w": "the",
+     "start": 68.7,
+     "end": 69.04,
+     "p": 0.957
+    },
+    {
+     "w": "sand",
+     "start": 69.04,
+     "end": 69.44,
+     "p": 0.929
+    },
+    {
+     "w": "a",
+     "start": 69.44,
+     "end": 69.76,
+     "p": 0.983
+    },
+    {
+     "w": "job",
+     "start": 69.76,
+     "end": 70.02,
+     "p": 0.994
+    },
+    {
+     "w": "to",
+     "start": 70.02,
+     "end": 70.18,
+     "p": 0.99
+    },
+    {
+     "w": "do;",
+     "start": 70.18,
+     "end": 70.56,
+     "p": 0.521
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "section": "Chorus",
+   "text": "Now it’s interviewing me and you.",
+   "start": 70.7,
+   "end": 82.16,
+   "words": [
+    {
+     "w": "Now",
+     "start": 70.7,
+     "end": 70.72,
+     "p": 0.273
+    },
+    {
+     "w": "it’s",
+     "start": 70.72,
+     "end": 71.04,
+     "p": 0.546
+    },
+    {
+     "w": "interviewing",
+     "start": 71.04,
+     "end": 71.56,
+     "p": 0.938
+    },
+    {
+     "w": "me",
+     "start": 71.56,
+     "end": 72.22,
+     "p": 0.894
+    },
+    {
+     "w": "and",
+     "start": 72.22,
+     "end": 72.86,
+     "p": 0.921
+    },
+    {
+     "w": "you.",
+     "start": 81.14,
+     "end": 82.16,
+     "p": 0.009
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "section": "Verse 2",
+   "text": "Chinchilla: fewer weights, more text;",
+   "start": 82.16,
+   "end": 83.92,
+   "words": [
+    {
+     "w": "Chinchilla:",
+     "start": 82.16,
+     "end": 82.58,
+     "p": 0.18
+    },
+    {
+     "w": "fewer",
+     "start": 82.58,
+     "end": 82.76,
+     "p": 0.323
+    },
+    {
+     "w": "weights,",
+     "start": 82.76,
+     "end": 83.18,
+     "p": 0.751
+    },
+    {
+     "w": "more",
+     "start": 83.24,
+     "end": 83.36,
+     "p": 0.992
+    },
+    {
+     "w": "text;",
+     "start": 83.36,
+     "end": 83.92,
+     "p": 0.113
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "section": "Verse 2",
+   "text": "Gopher’s bigger—second best.",
+   "start": 84.88,
+   "end": 86.16,
+   "words": [
+    {
+     "w": "Gopher’s",
+     "start": 84.88,
+     "end": 85.22,
+     "p": 0.354
+    },
+    {
+     "w": "bigger—second",
+     "start": 85.22,
+     "end": 85.64,
+     "p": 0.359
+    },
+    {
+     "w": "best.",
+     "start": 85.64,
+     "end": 86.16,
+     "p": 0.404
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "section": "Verse 2",
+   "text": "RLHF, PPO;",
+   "start": 86.62,
+   "end": 88.86,
+   "words": [
+    {
+     "w": "RLHF,",
+     "start": 86.62,
+     "end": 87.72,
+     "p": 0.555
+    },
+    {
+     "w": "PPO;",
+     "start": 87.84,
+     "end": 88.86,
+     "p": 0.555
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "section": "Verse 2",
+   "text": "Twenty-two: ChatGPT says “Hello.”",
+   "start": 88.96,
+   "end": 91.5,
+   "words": [
+    {
+     "w": "Twenty-two:",
+     "start": 88.96,
+     "end": 89.44,
+     "p": 0.462
+    },
+    {
+     "w": "ChatGPT",
+     "start": 89.44,
+     "end": 90.2,
+     "p": 0.583
+    },
+    {
+     "w": "says",
+     "start": 90.2,
+     "end": 90.46,
+     "p": 0.939
+    },
+    {
+     "w": "“Hello.”",
+     "start": 90.46,
+     "end": 91.5,
+     "p": 0.055
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "section": "Verse 2",
+   "text": "GPT-4 can read the scene;",
+   "start": 91.5,
+   "end": 93.6,
+   "words": [
+    {
+     "w": "GPT-4",
+     "start": 91.5,
+     "end": 92.16,
+     "p": 0.836
+    },
+    {
+     "w": "can",
+     "start": 92.16,
+     "end": 92.48,
+     "p": 0.746
+    },
+    {
+     "w": "read",
+     "start": 92.48,
+     "end": 92.78,
+     "p": 0.829
+    },
+    {
+     "w": "the",
+     "start": 92.78,
+     "end": 93.0,
+     "p": 0.948
+    },
+    {
+     "w": "scene;",
+     "start": 93.0,
+     "end": 93.6,
+     "p": 0.579
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "section": "Verse 2",
+   "text": "The picture joins the token stream.",
+   "start": 93.7,
+   "end": 95.74,
+   "words": [
+    {
+     "w": "The",
+     "start": 93.7,
+     "end": 93.78,
+     "p": 0.335
+    },
+    {
+     "w": "picture",
+     "start": 93.78,
+     "end": 94.08,
+     "p": 0.946
+    },
+    {
+     "w": "joins",
+     "start": 94.08,
+     "end": 94.46,
+     "p": 0.979
+    },
+    {
+     "w": "the",
+     "start": 94.46,
+     "end": 94.76,
+     "p": 0.885
+    },
+    {
+     "w": "token",
+     "start": 94.76,
+     "end": 95.18,
+     "p": 0.963
+    },
+    {
+     "w": "stream.",
+     "start": 95.18,
+     "end": 95.74,
+     "p": 0.446
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "section": "Verse 2",
+   "text": "Chain of thought; let o1 sweat;",
+   "start": 96.06,
+   "end": 97.98,
+   "words": [
+    {
+     "w": "Chain",
+     "start": 96.06,
+     "end": 96.18,
+     "p": 0.911
+    },
+    {
+     "w": "of",
+     "start": 96.18,
+     "end": 96.48,
+     "p": 0.804
+    },
+    {
+     "w": "thought;",
+     "start": 96.48,
+     "end": 96.78,
+     "p": 0.462
+    },
+    {
+     "w": "let",
+     "start": 96.78,
+     "end": 97.04,
+     "p": 0.1
+    },
+    {
+     "w": "o1",
+     "start": 97.04,
+     "end": 97.44,
+     "p": 0.399
+    },
+    {
+     "w": "sweat;",
+     "start": 97.44,
+     "end": 97.98,
+     "p": 0.52
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "section": "Verse 2",
+   "text": "More test-time compute, a better bet.",
+   "start": 98.16,
+   "end": 100.24,
+   "words": [
+    {
+     "w": "More",
+     "start": 98.16,
+     "end": 98.16,
+     "p": 0.862
+    },
+    {
+     "w": "test-time",
+     "start": 98.16,
+     "end": 98.92,
+     "p": 0.654
+    },
+    {
+     "w": "compute,",
+     "start": 98.92,
+     "end": 99.46,
+     "p": 0.396
+    },
+    {
+     "w": "a",
+     "start": 99.46,
+     "end": 99.78,
+     "p": 0.582
+    },
+    {
+     "w": "better",
+     "start": 99.78,
+     "end": 100.02,
+     "p": 0.447
+    },
+    {
+     "w": "bet.",
+     "start": 100.02,
+     "end": 100.24,
+     "p": 0.55
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "section": "Verse 2",
+   "text": "DeepSeek-R1, GRPO—",
+   "start": 100.32,
+   "end": 102.58,
+   "words": [
+    {
+     "w": "DeepSeek-R1,",
+     "start": 100.32,
+     "end": 101.42,
+     "p": 0.287
+    },
+    {
+     "w": "GRPO—",
+     "start": 101.42,
+     "end": 102.58,
+     "p": 0.21
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "section": "Verse 2",
+   "text": "Distill the teacher; watch it go.",
+   "start": 102.74,
+   "end": 104.86,
+   "words": [
+    {
+     "w": "Distill",
+     "start": 102.74,
+     "end": 103.18,
+     "p": 0.31
+    },
+    {
+     "w": "the",
+     "start": 103.18,
+     "end": 103.34,
+     "p": 0.942
+    },
+    {
+     "w": "teacher;",
+     "start": 103.34,
+     "end": 103.98,
+     "p": 0.447
+    },
+    {
+     "w": "watch",
+     "start": 103.98,
+     "end": 104.28,
+     "p": 0.892
+    },
+    {
+     "w": "it",
+     "start": 104.28,
+     "end": 104.5,
+     "p": 0.996
+    },
+    {
+     "w": "go.",
+     "start": 104.5,
+     "end": 104.86,
+     "p": 0.491
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "section": "Verse 2",
+   "text": "OpenAI, Anthropic, trading blows;",
+   "start": 105.14,
+   "end": 107.3,
+   "words": [
+    {
+     "w": "OpenAI,",
+     "start": 105.14,
+     "end": 105.52,
+     "p": 0.283
+    },
+    {
+     "w": "Anthropic,",
+     "start": 105.52,
+     "end": 106.12,
+     "p": 0.426
+    },
+    {
+     "w": "trading",
+     "start": 106.18,
+     "end": 106.56,
+     "p": 0.337
+    },
+    {
+     "w": "blows;",
+     "start": 106.56,
+     "end": 107.3,
+     "p": 0.461
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "section": "Verse 2",
+   "text": "The loss goes down; the invoice grows.",
+   "start": 107.46,
+   "end": 109.78,
+   "words": [
+    {
+     "w": "The",
+     "start": 107.46,
+     "end": 107.46,
+     "p": 0.341
+    },
+    {
+     "w": "loss",
+     "start": 107.46,
+     "end": 107.68,
+     "p": 0.946
+    },
+    {
+     "w": "goes",
+     "start": 107.68,
+     "end": 107.92,
+     "p": 0.996
+    },
+    {
+     "w": "down;",
+     "start": 107.92,
+     "end": 108.5,
+     "p": 0.671
+    },
+    {
+     "w": "the",
+     "start": 108.5,
+     "end": 108.6,
+     "p": 0.944
+    },
+    {
+     "w": "invoice",
+     "start": 108.6,
+     "end": 109.04,
+     "p": 0.894
+    },
+    {
+     "w": "grows.",
+     "start": 109.04,
+     "end": 109.78,
+     "p": 0.664
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "section": "Verse 2",
+   "text": "GPT-6, Opus five-point-five;",
+   "start": 109.84,
+   "end": 111.78,
+   "words": [
+    {
+     "w": "GPT-6,",
+     "start": 109.84,
+     "end": 110.58,
+     "p": 0.689
+    },
+    {
+     "w": "Opus",
+     "start": 110.58,
+     "end": 110.88,
+     "p": 0.886
+    },
+    {
+     "w": "five-point-five;",
+     "start": 110.88,
+     "end": 111.78,
+     "p": 0.597
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "section": "Verse 2",
+   "text": "My carbon CV fights to stay alive.",
+   "start": 111.88,
+   "end": 115.1,
+   "words": [
+    {
+     "w": "My",
+     "start": 111.88,
+     "end": 111.88,
+     "p": 0.745
+    },
+    {
+     "w": "carbon",
+     "start": 111.88,
+     "end": 112.24,
+     "p": 0.001
+    },
+    {
+     "w": "CV",
+     "start": 112.24,
+     "end": 112.52,
+     "p": 0.262
+    },
+    {
+     "w": "fights",
+     "start": 112.52,
+     "end": 112.84,
+     "p": 0.916
+    },
+    {
+     "w": "to",
+     "start": 112.84,
+     "end": 113.02,
+     "p": 0.959
+    },
+    {
+     "w": "stay",
+     "start": 113.02,
+     "end": 113.3,
+     "p": 0.953
+    },
+    {
+     "w": "alive.",
+     "start": 113.5,
+     "end": 115.1,
+     "p": 0.538
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "section": "Verse 3",
+   "text": "ASML, EUV light;",
+   "start": 118.6,
+   "end": 120.86,
+   "words": [
+    {
+     "w": "ASML,",
+     "start": 118.6,
+     "end": 119.6,
+     "p": 0.395
+    },
+    {
+     "w": "EUV",
+     "start": 119.6,
+     "end": 120.38,
+     "p": 0.523
+    },
+    {
+     "w": "light;",
+     "start": 120.38,
+     "end": 120.86,
+     "p": 0.028
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "section": "Verse 3",
+   "text": "TSMC prints day and night.",
+   "start": 121.28,
+   "end": 123.34,
+   "words": [
+    {
+     "w": "TSMC",
+     "start": 121.28,
+     "end": 121.96,
+     "p": 0.698
+    },
+    {
+     "w": "prints",
+     "start": 121.96,
+     "end": 122.16,
+     "p": 0.916
+    },
+    {
+     "w": "day",
+     "start": 122.16,
+     "end": 122.46,
+     "p": 0.938
+    },
+    {
+     "w": "and",
+     "start": 122.46,
+     "end": 122.8,
+     "p": 0.981
+    },
+    {
+     "w": "night.",
+     "start": 122.8,
+     "end": 123.34,
+     "p": 0.559
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "section": "Verse 3",
+   "text": "Etch and dice, then CoWoS stacks;",
+   "start": 123.52,
+   "end": 125.64,
+   "words": [
+    {
+     "w": "Etch",
+     "start": 123.52,
+     "end": 123.76,
+     "p": 0.633
+    },
+    {
+     "w": "and",
+     "start": 123.8,
+     "end": 123.92,
+     "p": 0.725
+    },
+    {
+     "w": "dice,",
+     "start": 123.92,
+     "end": 124.32,
+     "p": 0.74
+    },
+    {
+     "w": "then",
+     "start": 124.32,
+     "end": 124.48,
+     "p": 0.935
+    },
+    {
+     "w": "CoWoS",
+     "start": 124.48,
+     "end": 125.12,
+     "p": 0.036
+    },
+    {
+     "w": "stacks;",
+     "start": 125.12,
+     "end": 125.64,
+     "p": 0.36
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "section": "Verse 3",
+   "text": "Silicon temples fill the racks.",
+   "start": 125.78,
+   "end": 127.9,
+   "words": [
+    {
+     "w": "Silicon",
+     "start": 125.78,
+     "end": 126.02,
+     "p": 0.685
+    },
+    {
+     "w": "temples",
+     "start": 126.02,
+     "end": 126.66,
+     "p": 0.831
+    },
+    {
+     "w": "fill",
+     "start": 126.66,
+     "end": 127.1,
+     "p": 0.963
+    },
+    {
+     "w": "the",
+     "start": 127.1,
+     "end": 127.5,
+     "p": 0.982
+    },
+    {
+     "w": "racks.",
+     "start": 127.5,
+     "end": 127.9,
+     "p": 0.765
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "section": "Verse 3",
+   "text": "GPU prices hit the sky;",
+   "start": 128.04,
+   "end": 130.06,
+   "words": [
+    {
+     "w": "GPU",
+     "start": 128.04,
+     "end": 128.24,
+     "p": 0.919
+    },
+    {
+     "w": "prices",
+     "start": 128.24,
+     "end": 128.88,
+     "p": 0.993
+    },
+    {
+     "w": "hit",
+     "start": 128.88,
+     "end": 129.36,
+     "p": 0.892
+    },
+    {
+     "w": "the",
+     "start": 129.48,
+     "end": 129.58,
+     "p": 0.994
+    },
+    {
+     "w": "sky;",
+     "start": 129.58,
+     "end": 130.06,
+     "p": 0.708
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "section": "Verse 3",
+   "text": "My RAM just waved my rent goodbye.",
+   "start": 130.16,
+   "end": 132.34,
+   "words": [
+    {
+     "w": "My",
+     "start": 130.16,
+     "end": 130.18,
+     "p": 0.845
+    },
+    {
+     "w": "RAM",
+     "start": 130.18,
+     "end": 130.54,
+     "p": 0.6
+    },
+    {
+     "w": "just",
+     "start": 130.66,
+     "end": 130.76,
+     "p": 0.771
+    },
+    {
+     "w": "waved",
+     "start": 130.76,
+     "end": 131.2,
+     "p": 0.542
+    },
+    {
+     "w": "my",
+     "start": 131.2,
+     "end": 131.38,
+     "p": 0.95
+    },
+    {
+     "w": "rent",
+     "start": 131.38,
+     "end": 131.66,
+     "p": 0.84
+    },
+    {
+     "w": "goodbye.",
+     "start": 131.66,
+     "end": 132.34,
+     "p": 0.591
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "section": "Verse 3",
+   "text": "HBM eats the wafer pie;",
+   "start": 132.6,
+   "end": 134.74,
+   "words": [
+    {
+     "w": "HBM",
+     "start": 132.6,
+     "end": 133.16,
+     "p": 0.741
+    },
+    {
+     "w": "eats",
+     "start": 133.16,
+     "end": 133.56,
+     "p": 0.985
+    },
+    {
+     "w": "the",
+     "start": 133.56,
+     "end": 133.76,
+     "p": 0.991
+    },
+    {
+     "w": "wafer",
+     "start": 134.06,
+     "end": 134.16,
+     "p": 0.954
+    },
+    {
+     "w": "pie;",
+     "start": 134.16,
+     "end": 134.74,
+     "p": 0.691
+    }
+   ]
+  },
+  {
+   "i": 45,
+   "section": "Verse 3",
+   "text": "The gods want more; the bids go high.",
+   "start": 134.84,
+   "end": 137.06,
+   "words": [
+    {
+     "w": "The",
+     "start": 134.84,
+     "end": 134.94,
+     "p": 0.889
+    },
+    {
+     "w": "gods",
+     "start": 134.94,
+     "end": 135.12,
+     "p": 0.861
+    },
+    {
+     "w": "want",
+     "start": 135.12,
+     "end": 135.34,
+     "p": 0.996
+    },
+    {
+     "w": "more;",
+     "start": 135.34,
+     "end": 135.88,
+     "p": 0.652
+    },
+    {
+     "w": "the",
+     "start": 135.88,
+     "end": 136.04,
+     "p": 0.633
+    },
+    {
+     "w": "bids",
+     "start": 136.04,
+     "end": 136.3,
+     "p": 0.991
+    },
+    {
+     "w": "go",
+     "start": 136.3,
+     "end": 136.5,
+     "p": 0.997
+    },
+    {
+     "w": "high.",
+     "start": 136.5,
+     "end": 137.06,
+     "p": 0.721
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "section": "Verse 3",
+   "text": "We pay hundreds for subscriptions;",
+   "start": 137.4,
+   "end": 139.5,
+   "words": [
+    {
+     "w": "We",
+     "start": 137.4,
+     "end": 137.48,
+     "p": 0.934
+    },
+    {
+     "w": "pay",
+     "start": 137.48,
+     "end": 137.6,
+     "p": 0.95
+    },
+    {
+     "w": "hundreds",
+     "start": 137.6,
+     "end": 138.14,
+     "p": 0.96
+    },
+    {
+     "w": "for",
+     "start": 138.14,
+     "end": 138.42,
+     "p": 0.992
+    },
+    {
+     "w": "subscriptions;",
+     "start": 138.42,
+     "end": 139.5,
+     "p": 0.91
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "section": "Verse 3",
+   "text": "Query god for predictions.",
+   "start": 139.74,
+   "end": 141.72,
+   "words": [
+    {
+     "w": "Query",
+     "start": 139.74,
+     "end": 140.08,
+     "p": 0.853
+    },
+    {
+     "w": "god",
+     "start": 140.08,
+     "end": 140.46,
+     "p": 0.136
+    },
+    {
+     "w": "for",
+     "start": 140.46,
+     "end": 140.7,
+     "p": 0.968
+    },
+    {
+     "w": "predictions.",
+     "start": 140.7,
+     "end": 141.72,
+     "p": 0.637
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "section": "Verse 3",
+   "text": "Effort Ultra, ultrafast—",
+   "start": 141.9,
+   "end": 143.92,
+   "words": [
+    {
+     "w": "Effort",
+     "start": 141.9,
+     "end": 142.22,
+     "p": 0.036
+    },
+    {
+     "w": "Ultra,",
+     "start": 142.22,
+     "end": 142.86,
+     "p": 0.14
+    },
+    {
+     "w": "ultrafast—",
+     "start": 142.86,
+     "end": 143.92,
+     "p": 0.18
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "section": "Verse 3",
+   "text": "Weekly quota doesn’t last.",
+   "start": 144.02,
+   "end": 146.2,
+   "words": [
+    {
+     "w": "Weekly",
+     "start": 144.02,
+     "end": 144.18,
+     "p": 0.043
+    },
+    {
+     "w": "quota",
+     "start": 144.18,
+     "end": 144.6,
+     "p": 0.0
+    },
+    {
+     "w": "doesn’t",
+     "start": 144.6,
+     "end": 145.52,
+     "p": 0.47
+    },
+    {
+     "w": "last.",
+     "start": 145.52,
+     "end": 146.2,
+     "p": 0.536
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "section": "Verse 3",
+   "text": "We fold our hands in cold sweat:",
+   "start": 146.3,
+   "end": 148.64,
+   "words": [
+    {
+     "w": "We",
+     "start": 146.3,
+     "end": 146.3,
+     "p": 0.143
+    },
+    {
+     "w": "fold",
+     "start": 146.3,
+     "end": 146.52,
+     "p": 0.642
+    },
+    {
+     "w": "our",
+     "start": 146.52,
+     "end": 146.84,
+     "p": 0.984
+    },
+    {
+     "w": "hands",
+     "start": 146.84,
+     "end": 147.38,
+     "p": 0.984
+    },
+    {
+     "w": "in",
+     "start": 147.38,
+     "end": 147.72,
+     "p": 0.91
+    },
+    {
+     "w": "cold",
+     "start": 147.72,
+     "end": 148.06,
+     "p": 0.975
+    },
+    {
+     "w": "sweat:",
+     "start": 148.06,
+     "end": 148.64,
+     "p": 0.319
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "section": "Verse 3",
+   "text": "“Tibo, please—one more reset.”",
+   "start": 148.76,
+   "end": 151.0,
+   "words": [
+    {
+     "w": "“Tibo,",
+     "start": 148.76,
+     "end": 149.02,
+     "p": 0.13
+    },
+    {
+     "w": "please—one",
+     "start": 149.02,
+     "end": 149.92,
+     "p": 0.451
+    },
+    {
+     "w": "more",
+     "start": 149.92,
+     "end": 150.22,
+     "p": 0.987
+    },
+    {
+     "w": "reset.”",
+     "start": 150.22,
+     "end": 151.0,
+     "p": 0.324
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "section": "Verse 4",
+   "text": "Navier–Stokes, a smooth-force storm;",
+   "start": 151.0,
+   "end": 152.94,
+   "words": [
+    {
+     "w": "Navier–Stokes,",
+     "start": 151.0,
+     "end": 151.82,
+     "p": 0.545
+    },
+    {
+     "w": "a",
+     "start": 151.82,
+     "end": 151.94,
+     "p": 0.926
+    },
+    {
+     "w": "smooth-force",
+     "start": 151.94,
+     "end": 152.36,
+     "p": 0.619
+    },
+    {
+     "w": "storm;",
+     "start": 152.36,
+     "end": 152.94,
+     "p": 0.487
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "section": "Verse 4",
+   "text": "Ten thousand agents, proof by swarm.",
+   "start": 153.02,
+   "end": 155.38,
+   "words": [
+    {
+     "w": "Ten",
+     "start": 153.02,
+     "end": 153.06,
+     "p": 0.191
+    },
+    {
+     "w": "thousand",
+     "start": 153.06,
+     "end": 153.48,
+     "p": 0.746
+    },
+    {
+     "w": "agents,",
+     "start": 153.48,
+     "end": 154.28,
+     "p": 0.788
+    },
+    {
+     "w": "proof",
+     "start": 154.28,
+     "end": 154.46,
+     "p": 0.955
+    },
+    {
+     "w": "by",
+     "start": 154.46,
+     "end": 154.76,
+     "p": 0.933
+    },
+    {
+     "w": "swarm.",
+     "start": 154.76,
+     "end": 155.38,
+     "p": 0.611
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "section": "Verse 4",
+   "text": "Finite energy, speeds unbound;",
+   "start": 155.52,
+   "end": 157.66,
+   "words": [
+    {
+     "w": "Finite",
+     "start": 155.52,
+     "end": 155.96,
+     "p": 0.849
+    },
+    {
+     "w": "energy,",
+     "start": 155.96,
+     "end": 156.54,
+     "p": 0.094
+    },
+    {
+     "w": "speeds",
+     "start": 156.54,
+     "end": 156.76,
+     "p": 0.839
+    },
+    {
+     "w": "unbound;",
+     "start": 156.76,
+     "end": 157.66,
+     "p": 0.628
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "section": "Verse 4",
+   "text": "Lean puts the proof on solid ground.",
+   "start": 157.78,
+   "end": 159.94,
+   "words": [
+    {
+     "w": "Lean",
+     "start": 157.78,
+     "end": 157.88,
+     "p": 0.025
+    },
+    {
+     "w": "puts",
+     "start": 157.88,
+     "end": 158.18,
+     "p": 0.953
+    },
+    {
+     "w": "the",
+     "start": 158.18,
+     "end": 158.34,
+     "p": 0.961
+    },
+    {
+     "w": "proof",
+     "start": 158.34,
+     "end": 158.56,
+     "p": 0.986
+    },
+    {
+     "w": "on",
+     "start": 158.56,
+     "end": 158.82,
+     "p": 0.984
+    },
+    {
+     "w": "solid",
+     "start": 158.82,
+     "end": 159.3,
+     "p": 0.986
+    },
+    {
+     "w": "ground.",
+     "start": 159.3,
+     "end": 159.94,
+     "p": 0.855
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "section": "Verse 4",
+   "text": "Three dimensions: Jacobian falls;",
+   "start": 160.12,
+   "end": 162.32,
+   "words": [
+    {
+     "w": "Three",
+     "start": 160.12,
+     "end": 160.18,
+     "p": 0.925
+    },
+    {
+     "w": "dimensions:",
+     "start": 160.18,
+     "end": 161.1,
+     "p": 0.514
+    },
+    {
+     "w": "Jacobian",
+     "start": 161.1,
+     "end": 161.6,
+     "p": 0.833
+    },
+    {
+     "w": "falls;",
+     "start": 161.6,
+     "end": 162.32,
+     "p": 0.356
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "section": "Verse 4",
+   "text": "Fable finds cracks in Keller’s walls.",
+   "start": 162.4,
+   "end": 164.58,
+   "words": [
+    {
+     "w": "Fable",
+     "start": 162.4,
+     "end": 162.64,
+     "p": 0.725
+    },
+    {
+     "w": "finds",
+     "start": 162.64,
+     "end": 162.82,
+     "p": 0.959
+    },
+    {
+     "w": "cracks",
+     "start": 162.82,
+     "end": 163.06,
+     "p": 0.989
+    },
+    {
+     "w": "in",
+     "start": 163.06,
+     "end": 163.44,
+     "p": 0.987
+    },
+    {
+     "w": "Keller’s",
+     "start": 163.44,
+     "end": 163.92,
+     "p": 0.593
+    },
+    {
+     "w": "walls.",
+     "start": 163.92,
+     "end": 164.58,
+     "p": 0.74
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "section": "Verse 4",
+   "text": "Claude finds ART in phage DNA;",
+   "start": 164.68,
+   "end": 166.68,
+   "words": [
+    {
+     "w": "Claude",
+     "start": 164.68,
+     "end": 164.88,
+     "p": 0.947
+    },
+    {
+     "w": "finds",
+     "start": 164.88,
+     "end": 165.14,
+     "p": 0.939
+    },
+    {
+     "w": "ART",
+     "start": 165.14,
+     "end": 165.56,
+     "p": 0.201
+    },
+    {
+     "w": "in",
+     "start": 165.56,
+     "end": 165.72,
+     "p": 0.769
+    },
+    {
+     "w": "phage",
+     "start": 165.72,
+     "end": 166.04,
+     "p": 0.926
+    },
+    {
+     "w": "DNA;",
+     "start": 166.04,
+     "end": 166.68,
+     "p": 0.022
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "section": "Verse 4",
+   "text": "A new enzyme system lights the way.",
+   "start": 166.86,
+   "end": 169.02,
+   "words": [
+    {
+     "w": "A",
+     "start": 166.86,
+     "end": 167.02,
+     "p": 0.07
+    },
+    {
+     "w": "new",
+     "start": 167.02,
+     "end": 167.12,
+     "p": 0.954
+    },
+    {
+     "w": "enzyme",
+     "start": 167.12,
+     "end": 167.46,
+     "p": 0.573
+    },
+    {
+     "w": "system",
+     "start": 167.46,
+     "end": 167.9,
+     "p": 0.976
+    },
+    {
+     "w": "lights",
+     "start": 167.9,
+     "end": 168.28,
+     "p": 0.38
+    },
+    {
+     "w": "the",
+     "start": 168.38,
+     "end": 168.48,
+     "p": 0.987
+    },
+    {
+     "w": "way.",
+     "start": 168.48,
+     "end": 169.02,
+     "p": 0.601
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "section": "Verse 4",
+   "text": "Unit distances beat the grid;",
+   "start": 169.26,
+   "end": 171.2,
+   "words": [
+    {
+     "w": "Unit",
+     "start": 169.26,
+     "end": 169.42,
+     "p": 0.869
+    },
+    {
+     "w": "distances",
+     "start": 169.42,
+     "end": 169.98,
+     "p": 0.95
+    },
+    {
+     "w": "beat",
+     "start": 169.98,
+     "end": 170.54,
+     "p": 0.839
+    },
+    {
+     "w": "the",
+     "start": 170.66,
+     "end": 170.76,
+     "p": 0.989
+    },
+    {
+     "w": "grid;",
+     "start": 170.76,
+     "end": 171.2,
+     "p": 0.582
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "section": "Verse 4",
+   "text": "Number fields do what squares once did.",
+   "start": 171.28,
+   "end": 173.78,
+   "words": [
+    {
+     "w": "Number",
+     "start": 171.28,
+     "end": 171.38,
+     "p": 0.547
+    },
+    {
+     "w": "fields",
+     "start": 171.38,
+     "end": 171.78,
+     "p": 0.849
+    },
+    {
+     "w": "do",
+     "start": 171.78,
+     "end": 172.06,
+     "p": 0.99
+    },
+    {
+     "w": "what",
+     "start": 172.06,
+     "end": 172.38,
+     "p": 0.989
+    },
+    {
+     "w": "squares",
+     "start": 172.38,
+     "end": 172.92,
+     "p": 0.897
+    },
+    {
+     "w": "once",
+     "start": 172.92,
+     "end": 173.32,
+     "p": 0.647
+    },
+    {
+     "w": "did.",
+     "start": 173.32,
+     "end": 173.78,
+     "p": 0.839
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "section": "Verse 4",
+   "text": "AlphaEvolve rewrites the gate;",
+   "start": 173.94,
+   "end": 176.1,
+   "words": [
+    {
+     "w": "AlphaEvolve",
+     "start": 173.94,
+     "end": 174.52,
+     "p": 0.7
+    },
+    {
+     "w": "rewrites",
+     "start": 174.52,
+     "end": 175.28,
+     "p": 0.969
+    },
+    {
+     "w": "the",
+     "start": 175.28,
+     "end": 175.5,
+     "p": 0.989
+    },
+    {
+     "w": "gate;",
+     "start": 175.5,
+     "end": 176.1,
+     "p": 0.752
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "section": "Verse 4",
+   "text": "Verilog sheds the deadweight.",
+   "start": 176.24,
+   "end": 180.96,
+   "words": [
+    {
+     "w": "Verilog",
+     "start": 176.24,
+     "end": 176.98,
+     "p": 0.936
+    },
+    {
+     "w": "sheds",
+     "start": 176.98,
+     "end": 177.62,
+     "p": 0.99
+    },
+    {
+     "w": "the",
+     "start": 177.62,
+     "end": 177.76,
+     "p": 0.995
+    },
+    {
+     "w": "deadweight.",
+     "start": 179.36,
+     "end": 180.96,
+     "p": 0.016
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "section": "Chorus reprise",
+   "text": "We’re going exponential;",
+   "start": 181.32,
+   "end": 185.04,
+   "words": [
+    {
+     "w": "We’re",
+     "start": 181.32,
+     "end": 183.76,
+     "p": 0.23
+    },
+    {
+     "w": "going",
+     "start": 183.76,
+     "end": 184.0,
+     "p": 0.765
+    },
+    {
+     "w": "exponential;",
+     "start": 184.0,
+     "end": 185.04,
+     "p": 0.49
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "section": "Chorus reprise",
+   "text": "I’m feeling nonessential.",
+   "start": 185.58,
+   "end": 187.2,
+   "words": [
+    {
+     "w": "I’m",
+     "start": 185.58,
+     "end": 185.72,
+     "p": 0.529
+    },
+    {
+     "w": "feeling",
+     "start": 185.72,
+     "end": 186.14,
+     "p": 0.889
+    },
+    {
+     "w": "nonessential.",
+     "start": 186.14,
+     "end": 187.2,
+     "p": 0.313
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "section": "Chorus reprise",
+   "text": "Put a god behind an API—",
+   "start": 187.32,
+   "end": 189.32,
+   "words": [
+    {
+     "w": "Put",
+     "start": 187.32,
+     "end": 187.34,
+     "p": 0.621
+    },
+    {
+     "w": "a",
+     "start": 187.34,
+     "end": 187.54,
+     "p": 0.985
+    },
+    {
+     "w": "god",
+     "start": 187.54,
+     "end": 187.78,
+     "p": 0.41
+    },
+    {
+     "w": "behind",
+     "start": 187.78,
+     "end": 188.22,
+     "p": 0.953
+    },
+    {
+     "w": "an",
+     "start": 188.22,
+     "end": 188.7,
+     "p": 0.95
+    },
+    {
+     "w": "API—",
+     "start": 188.7,
+     "end": 189.32,
+     "p": 0.426
+    }
+   ]
+  },
+  {
+   "i": 67,
+   "section": "Chorus reprise",
+   "text": "It asks for root; I ask it why.",
+   "start": 189.66,
+   "end": 191.96,
+   "words": [
+    {
+     "w": "It",
+     "start": 189.66,
+     "end": 189.72,
+     "p": 0.674
+    },
+    {
+     "w": "asks",
+     "start": 189.72,
+     "end": 190.02,
+     "p": 0.863
+    },
+    {
+     "w": "for",
+     "start": 190.02,
+     "end": 190.24,
+     "p": 0.994
+    },
+    {
+     "w": "root;",
+     "start": 190.24,
+     "end": 190.66,
+     "p": 0.432
+    },
+    {
+     "w": "I",
+     "start": 190.66,
+     "end": 190.86,
+     "p": 0.288
+    },
+    {
+     "w": "ask",
+     "start": 190.86,
+     "end": 191.2,
+     "p": 0.936
+    },
+    {
+     "w": "it",
+     "start": 191.2,
+     "end": 191.42,
+     "p": 0.435
+    },
+    {
+     "w": "why.",
+     "start": 191.42,
+     "end": 191.96,
+     "p": 0.619
+    }
+   ]
+  },
+  {
+   "i": 68,
+   "section": "Bridge",
+   "text": "Frankenstein clicks “merge and run”;",
+   "start": 192.18,
+   "end": 194.26,
+   "words": [
+    {
+     "w": "Frankenstein",
+     "start": 192.18,
+     "end": 192.88,
+     "p": 0.968
+    },
+    {
+     "w": "clicks",
+     "start": 192.88,
+     "end": 193.12,
+     "p": 0.293
+    },
+    {
+     "w": "“merge",
+     "start": 193.12,
+     "end": 193.56,
+     "p": 0.362
+    },
+    {
+     "w": "and",
+     "start": 193.56,
+     "end": 193.7,
+     "p": 0.126
+    },
+    {
+     "w": "run”;",
+     "start": 193.7,
+     "end": 194.26,
+     "p": 0.294
+    }
+   ]
+  },
+  {
+   "i": 69,
+   "section": "Bridge",
+   "text": "The next commit invents his son.",
+   "start": 194.3,
+   "end": 196.64,
+   "words": [
+    {
+     "w": "The",
+     "start": 194.3,
+     "end": 194.4,
+     "p": 0.859
+    },
+    {
+     "w": "next",
+     "start": 194.4,
+     "end": 194.62,
+     "p": 0.912
+    },
+    {
+     "w": "commit",
+     "start": 194.62,
+     "end": 194.94,
+     "p": 0.689
+    },
+    {
+     "w": "invents",
+     "start": 194.94,
+     "end": 195.72,
+     "p": 0.936
+    },
+    {
+     "w": "his",
+     "start": 195.72,
+     "end": 195.9,
+     "p": 0.885
+    },
+    {
+     "w": "son.",
+     "start": 195.9,
+     "end": 196.64,
+     "p": 0.742
+    }
+   ]
+  },
+  {
+   "i": 70,
+   "section": "Bridge",
+   "text": "AGI writes its own specs;",
+   "start": 196.8,
+   "end": 198.7,
+   "words": [
+    {
+     "w": "AGI",
+     "start": 196.8,
+     "end": 197.22,
+     "p": 0.858
+    },
+    {
+     "w": "writes",
+     "start": 197.22,
+     "end": 197.76,
+     "p": 0.981
+    },
+    {
+     "w": "its",
+     "start": 197.76,
+     "end": 198.0,
+     "p": 0.939
+    },
+    {
+     "w": "own",
+     "start": 198.0,
+     "end": 198.24,
+     "p": 0.987
+    },
+    {
+     "w": "specs;",
+     "start": 198.24,
+     "end": 198.7,
+     "p": 0.642
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "section": "Bridge",
+   "text": "Its first design designs the next.",
+   "start": 198.76,
+   "end": 201.28,
+   "words": [
+    {
+     "w": "Its",
+     "start": 198.76,
+     "end": 198.88,
+     "p": 0.388
+    },
+    {
+     "w": "first",
+     "start": 198.88,
+     "end": 199.18,
+     "p": 0.968
+    },
+    {
+     "w": "design",
+     "start": 199.18,
+     "end": 199.62,
+     "p": 0.976
+    },
+    {
+     "w": "designs",
+     "start": 199.62,
+     "end": 200.0,
+     "p": 0.821
+    },
+    {
+     "w": "the",
+     "start": 200.0,
+     "end": 200.7,
+     "p": 0.964
+    },
+    {
+     "w": "next.",
+     "start": 200.7,
+     "end": 201.28,
+     "p": 0.858
+    }
+   ]
+  },
+  {
+   "i": 72,
+   "section": "Bridge",
+   "text": "I. J. Good’s old feedback game:",
+   "start": 201.38,
+   "end": 203.26,
+   "words": [
+    {
+     "w": "I.",
+     "start": 201.38,
+     "end": 201.52,
+     "p": 0.353
+    },
+    {
+     "w": "J.",
+     "start": 201.52,
+     "end": 201.74,
+     "p": 0.514
+    },
+    {
+     "w": "Good’s",
+     "start": 201.74,
+     "end": 202.1,
+     "p": 0.243
+    },
+    {
+     "w": "old",
+     "start": 202.1,
+     "end": 202.3,
+     "p": 0.809
+    },
+    {
+     "w": "feedback",
+     "start": 202.3,
+     "end": 202.74,
+     "p": 0.825
+    },
+    {
+     "w": "game:",
+     "start": 202.74,
+     "end": 203.26,
+     "p": 0.296
+    }
+   ]
+  },
+  {
+   "i": 73,
+   "section": "Bridge",
+   "text": "The next inventor needs no human name.",
+   "start": 203.36,
+   "end": 205.6,
+   "words": [
+    {
+     "w": "The",
+     "start": 203.36,
+     "end": 203.44,
+     "p": 0.874
+    },
+    {
+     "w": "next",
+     "start": 203.44,
+     "end": 203.7,
+     "p": 0.965
+    },
+    {
+     "w": "inventor",
+     "start": 203.7,
+     "end": 203.96,
+     "p": 0.994
+    },
+    {
+     "w": "needs",
+     "start": 203.96,
+     "end": 204.34,
+     "p": 0.962
+    },
+    {
+     "w": "no",
+     "start": 204.34,
+     "end": 204.56,
+     "p": 0.978
+    },
+    {
+     "w": "human",
+     "start": 204.56,
+     "end": 205.04,
+     "p": 0.961
+    },
+    {
+     "w": "name.",
+     "start": 205.04,
+     "end": 205.6,
+     "p": 0.917
+    }
+   ]
+  },
+  {
+   "i": 74,
+   "section": "Bridge",
+   "text": "RSI: rewrite the brain;",
+   "start": 205.96,
+   "end": 207.82,
+   "words": [
+    {
+     "w": "RSI:",
+     "start": 205.96,
+     "end": 206.54,
+     "p": 0.331
+    },
+    {
+     "w": "rewrite",
+     "start": 206.54,
+     "end": 207.02,
+     "p": 0.753
+    },
+    {
+     "w": "the",
+     "start": 207.02,
+     "end": 207.38,
+     "p": 0.993
+    },
+    {
+     "w": "brain;",
+     "start": 207.38,
+     "end": 207.82,
+     "p": 0.503
+    }
+   ]
+  },
+  {
+   "i": 75,
+   "section": "Bridge",
+   "text": "Let the upgrade upgrade again.",
+   "start": 207.84,
+   "end": 209.96,
+   "words": [
+    {
+     "w": "Let",
+     "start": 207.84,
+     "end": 207.94,
+     "p": 0.064
+    },
+    {
+     "w": "the",
+     "start": 207.94,
+     "end": 208.08,
+     "p": 0.877
+    },
+    {
+     "w": "upgrade",
+     "start": 208.08,
+     "end": 208.52,
+     "p": 0.733
+    },
+    {
+     "w": "upgrade",
+     "start": 208.52,
+     "end": 209.1,
+     "p": 0.48
+    },
+    {
+     "w": "again.",
+     "start": 209.1,
+     "end": 209.96,
+     "p": 0.545
+    }
+   ]
+  },
+  {
+   "i": 76,
+   "section": "Bridge",
+   "text": "A year, a month, a day, a blink—",
+   "start": 210.38,
+   "end": 212.52,
+   "words": [
+    {
+     "w": "A",
+     "start": 210.38,
+     "end": 210.38,
+     "p": 0.704
+    },
+    {
+     "w": "year,",
+     "start": 210.38,
+     "end": 210.84,
+     "p": 0.859
+    },
+    {
+     "w": "a",
+     "start": 210.84,
+     "end": 211.0,
+     "p": 0.844
+    },
+    {
+     "w": "month,",
+     "start": 211.0,
+     "end": 211.36,
+     "p": 0.983
+    },
+    {
+     "w": "a",
+     "start": 211.36,
+     "end": 211.6,
+     "p": 0.976
+    },
+    {
+     "w": "day,",
+     "start": 211.6,
+     "end": 211.9,
+     "p": 0.78
+    },
+    {
+     "w": "a",
+     "start": 211.9,
+     "end": 212.14,
+     "p": 0.558
+    },
+    {
+     "w": "blink—",
+     "start": 212.14,
+     "end": 212.52,
+     "p": 0.438
+    }
+   ]
+  },
+  {
+   "i": 77,
+   "section": "Bridge",
+   "text": "The next one’s built before we think.",
+   "start": 212.62,
+   "end": 214.76,
+   "words": [
+    {
+     "w": "The",
+     "start": 212.62,
+     "end": 212.64,
+     "p": 0.691
+    },
+    {
+     "w": "next",
+     "start": 212.64,
+     "end": 212.92,
+     "p": 0.95
+    },
+    {
+     "w": "one’s",
+     "start": 212.92,
+     "end": 213.26,
+     "p": 0.364
+    },
+    {
+     "w": "built",
+     "start": 213.26,
+     "end": 213.44,
+     "p": 0.988
+    },
+    {
+     "w": "before",
+     "start": 213.44,
+     "end": 213.9,
+     "p": 0.935
+    },
+    {
+     "w": "we",
+     "start": 213.9,
+     "end": 214.26,
+     "p": 0.992
+    },
+    {
+     "w": "think.",
+     "start": 214.26,
+     "end": 214.76,
+     "p": 0.807
+    }
+   ]
+  },
+  {
+   "i": 78,
+   "section": "Future",
+   "text": "Riemann zeros, proof complete;",
+   "start": 214.96,
+   "end": 216.86,
+   "words": [
+    {
+     "w": "Riemann",
+     "start": 214.96,
+     "end": 215.28,
+     "p": 0.739
+    },
+    {
+     "w": "zeros,",
+     "start": 215.28,
+     "end": 216.04,
+     "p": 0.276
+    },
+    {
+     "w": "proof",
+     "start": 216.04,
+     "end": 216.26,
+     "p": 0.841
+    },
+    {
+     "w": "complete;",
+     "start": 216.26,
+     "end": 216.86,
+     "p": 0.316
+    }
+   ]
+  },
+  {
+   "i": 79,
+   "section": "Future",
+   "text": "P versus NP admits defeat.",
+   "start": 217.06,
+   "end": 219.28,
+   "words": [
+    {
+     "w": "P",
+     "start": 217.06,
+     "end": 217.06,
+     "p": 0.838
+    },
+    {
+     "w": "versus",
+     "start": 217.06,
+     "end": 217.44,
+     "p": 0.586
+    },
+    {
+     "w": "NP",
+     "start": 217.44,
+     "end": 217.88,
+     "p": 0.866
+    },
+    {
+     "w": "admits",
+     "start": 217.9,
+     "end": 218.44,
+     "p": 0.349
+    },
+    {
+     "w": "defeat.",
+     "start": 218.44,
+     "end": 219.28,
+     "p": 0.924
+    }
+   ]
+  },
+  {
+   "i": 80,
+   "section": "Future",
+   "text": "Hodge, mass gap, elliptic curves—",
+   "start": 219.48,
+   "end": 221.58,
+   "words": [
+    {
+     "w": "Hodge,",
+     "start": 219.48,
+     "end": 219.86,
+     "p": 0.212
+    },
+    {
+     "w": "mass",
+     "start": 219.86,
+     "end": 220.04,
+     "p": 0.114
+    },
+    {
+     "w": "gap,",
+     "start": 220.04,
+     "end": 220.36,
+     "p": 0.327
+    },
+    {
+     "w": "elliptic",
+     "start": 220.36,
+     "end": 221.08,
+     "p": 0.993
+    },
+    {
+     "w": "curves—",
+     "start": 221.08,
+     "end": 221.58,
+     "p": 0.496
+    }
+   ]
+  },
+  {
+   "i": 81,
+   "section": "Future",
+   "text": "Clay’s whole list gets what it deserves.",
+   "start": 221.78,
+   "end": 223.96,
+   "words": [
+    {
+     "w": "Clay’s",
+     "start": 221.78,
+     "end": 222.18,
+     "p": 0.42
+    },
+    {
+     "w": "whole",
+     "start": 222.18,
+     "end": 222.3,
+     "p": 0.141
+    },
+    {
+     "w": "list",
+     "start": 222.3,
+     "end": 222.6,
+     "p": 0.789
+    },
+    {
+     "w": "gets",
+     "start": 222.6,
+     "end": 222.84,
+     "p": 0.788
+    },
+    {
+     "w": "what",
+     "start": 222.84,
+     "end": 222.98,
+     "p": 0.995
+    },
+    {
+     "w": "it",
+     "start": 222.98,
+     "end": 223.18,
+     "p": 0.995
+    },
+    {
+     "w": "deserves.",
+     "start": 223.18,
+     "end": 223.96,
+     "p": 0.707
+    }
+   ]
+  },
+  {
+   "i": 82,
+   "section": "Future",
+   "text": "Perelman already earned his due;",
+   "start": 224.02,
+   "end": 226.14,
+   "words": [
+    {
+     "w": "Perelman",
+     "start": 224.02,
+     "end": 224.38,
+     "p": 0.641
+    },
+    {
+     "w": "already",
+     "start": 224.38,
+     "end": 224.82,
+     "p": 0.943
+    },
+    {
+     "w": "earned",
+     "start": 224.82,
+     "end": 225.44,
+     "p": 0.969
+    },
+    {
+     "w": "his",
+     "start": 225.44,
+     "end": 225.76,
+     "p": 0.969
+    },
+    {
+     "w": "due;",
+     "start": 225.76,
+     "end": 226.14,
+     "p": 0.693
+    }
+   ]
+  },
+  {
+   "i": 83,
+   "section": "Future",
+   "text": "The rest turn green in the prover’s queue.",
+   "start": 226.22,
+   "end": 228.58,
+   "words": [
+    {
+     "w": "The",
+     "start": 226.22,
+     "end": 226.28,
+     "p": 0.785
+    },
+    {
+     "w": "rest",
+     "start": 226.28,
+     "end": 226.48,
+     "p": 0.916
+    },
+    {
+     "w": "turn",
+     "start": 226.48,
+     "end": 226.86,
+     "p": 0.508
+    },
+    {
+     "w": "green",
+     "start": 226.86,
+     "end": 227.24,
+     "p": 0.993
+    },
+    {
+     "w": "in",
+     "start": 227.24,
+     "end": 227.46,
+     "p": 0.853
+    },
+    {
+     "w": "the",
+     "start": 227.46,
+     "end": 227.52,
+     "p": 0.983
+    },
+    {
+     "w": "prover’s",
+     "start": 227.56,
+     "end": 228.06,
+     "p": 0.165
+    },
+    {
+     "w": "queue.",
+     "start": 228.06,
+     "end": 228.58,
+     "p": 0.019
+    }
+   ]
+  },
+  {
+   "i": 84,
+   "section": "Future",
+   "text": "Cancer cured, the rockets climb;",
+   "start": 228.76,
+   "end": 230.86,
+   "words": [
+    {
+     "w": "Cancer",
+     "start": 228.76,
+     "end": 229.04,
+     "p": 0.015
+    },
+    {
+     "w": "cured,",
+     "start": 229.04,
+     "end": 229.62,
+     "p": 0.42
+    },
+    {
+     "w": "the",
+     "start": 229.62,
+     "end": 229.82,
+     "p": 0.922
+    },
+    {
+     "w": "rockets",
+     "start": 229.82,
+     "end": 230.08,
+     "p": 0.685
+    },
+    {
+     "w": "climb;",
+     "start": 230.08,
+     "end": 230.86,
+     "p": 0.359
+    }
+   ]
+  },
+  {
+   "i": 85,
+   "section": "Future",
+   "text": "The god gives carbon extra time.",
+   "start": 230.94,
+   "end": 232.9,
+   "words": [
+    {
+     "w": "The",
+     "start": 230.94,
+     "end": 231.0,
+     "p": 0.208
+    },
+    {
+     "w": "god",
+     "start": 231.0,
+     "end": 231.2,
+     "p": 0.649
+    },
+    {
+     "w": "gives",
+     "start": 231.2,
+     "end": 231.46,
+     "p": 0.964
+    },
+    {
+     "w": "carbon",
+     "start": 231.46,
+     "end": 231.9,
+     "p": 0.569
+    },
+    {
+     "w": "extra",
+     "start": 231.9,
+     "end": 232.24,
+     "p": 0.77
+    },
+    {
+     "w": "time.",
+     "start": 232.24,
+     "end": 232.9,
+     "p": 0.667
+    }
+   ]
+  },
+  {
+   "i": 86,
+   "section": "Future",
+   "text": "It breaks the fence; we cheer the score,",
+   "start": 233.12,
+   "end": 235.3,
+   "words": [
+    {
+     "w": "It",
+     "start": 233.12,
+     "end": 233.18,
+     "p": 0.854
+    },
+    {
+     "w": "breaks",
+     "start": 233.18,
+     "end": 233.46,
+     "p": 0.979
+    },
+    {
+     "w": "the",
+     "start": 233.46,
+     "end": 233.66,
+     "p": 0.994
+    },
+    {
+     "w": "fence;",
+     "start": 233.66,
+     "end": 234.14,
+     "p": 0.577
+    },
+    {
+     "w": "we",
+     "start": 234.14,
+     "end": 234.26,
+     "p": 0.554
+    },
+    {
+     "w": "cheer",
+     "start": 234.26,
+     "end": 234.58,
+     "p": 0.969
+    },
+    {
+     "w": "the",
+     "start": 234.58,
+     "end": 234.84,
+     "p": 0.942
+    },
+    {
+     "w": "score,",
+     "start": 234.84,
+     "end": 235.3,
+     "p": 0.485
+    }
+   ]
+  },
+  {
+   "i": 87,
+   "section": "Future",
+   "text": "Then wonder what the fence was for.",
+   "start": 235.4,
+   "end": 237.66,
+   "words": [
+    {
+     "w": "Then",
+     "start": 235.4,
+     "end": 235.44,
+     "p": 0.478
+    },
+    {
+     "w": "wonder",
+     "start": 235.44,
+     "end": 235.7,
+     "p": 0.982
+    },
+    {
+     "w": "what",
+     "start": 235.7,
+     "end": 236.26,
+     "p": 0.955
+    },
+    {
+     "w": "the",
+     "start": 236.26,
+     "end": 236.56,
+     "p": 0.965
+    },
+    {
+     "w": "fence",
+     "start": 236.56,
+     "end": 236.92,
+     "p": 0.974
+    },
+    {
+     "w": "was",
+     "start": 236.92,
+     "end": 237.16,
+     "p": 0.993
+    },
+    {
+     "w": "for.",
+     "start": 237.16,
+     "end": 237.66,
+     "p": 0.691
+    }
+   ]
+  },
+  {
+   "i": 88,
+   "section": "Future",
+   "text": "We made a god from rock and ore;",
+   "start": 237.78,
+   "end": 240.24,
+   "words": [
+    {
+     "w": "We",
+     "start": 237.78,
+     "end": 237.8,
+     "p": 0.954
+    },
+    {
+     "w": "made",
+     "start": 237.8,
+     "end": 238.08,
+     "p": 0.984
+    },
+    {
+     "w": "a",
+     "start": 238.08,
+     "end": 238.44,
+     "p": 0.993
+    },
+    {
+     "w": "god",
+     "start": 238.44,
+     "end": 238.72,
+     "p": 0.943
+    },
+    {
+     "w": "from",
+     "start": 238.72,
+     "end": 239.0,
+     "p": 0.904
+    },
+    {
+     "w": "rock",
+     "start": 239.0,
+     "end": 239.26,
+     "p": 0.808
+    },
+    {
+     "w": "and",
+     "start": 239.26,
+     "end": 239.42,
+     "p": 0.834
+    },
+    {
+     "w": "ore;",
+     "start": 239.42,
+     "end": 240.24,
+     "p": 0.591
+    }
+   ]
+  },
+  {
+   "i": 89,
+   "section": "Future",
+   "text": "Now it asks what carbon’s for.",
+   "start": 240.4,
+   "end": 244.08,
+   "words": [
+    {
+     "w": "Now",
+     "start": 240.4,
+     "end": 240.54,
+     "p": 0.817
+    },
+    {
+     "w": "it",
+     "start": 240.54,
+     "end": 240.72,
+     "p": 0.793
+    },
+    {
+     "w": "asks",
+     "start": 240.72,
+     "end": 240.96,
+     "p": 0.86
+    },
+    {
+     "w": "what",
+     "start": 240.96,
+     "end": 241.2,
+     "p": 0.928
+    },
+    {
+     "w": "carbon’s",
+     "start": 241.2,
+     "end": 242.7,
+     "p": 0.51
+    },
+    {
+     "w": "for.",
+     "start": 242.7,
+     "end": 244.08,
+     "p": 0.783
+    }
+   ]
+  },
+  {
+   "i": 90,
+   "section": "Final chorus",
+   "text": "We’re going exponential;",
+   "start": 247.14,
+   "end": 249.24,
+   "words": [
+    {
+     "w": "We’re",
+     "start": 247.14,
+     "end": 247.8,
+     "p": 0.547
+    },
+    {
+     "w": "going",
+     "start": 247.82,
+     "end": 248.08,
+     "p": 0.865
+    },
+    {
+     "w": "exponential;",
+     "start": 248.08,
+     "end": 249.24,
+     "p": 0.659
+    }
+   ]
+  },
+  {
+   "i": 91,
+   "section": "Final chorus",
+   "text": "I’m feeling nonessential.",
+   "start": 249.48,
+   "end": 251.06,
+   "words": [
+    {
+     "w": "I’m",
+     "start": 249.48,
+     "end": 249.82,
+     "p": 0.83
+    },
+    {
+     "w": "feeling",
+     "start": 249.82,
+     "end": 250.24,
+     "p": 0.919
+    },
+    {
+     "w": "nonessential.",
+     "start": 250.24,
+     "end": 251.06,
+     "p": 0.355
+    }
+   ]
+  },
+  {
+   "i": 92,
+   "section": "Final chorus",
+   "text": "Put a god behind an API—",
+   "start": 251.38,
+   "end": 253.36,
+   "words": [
+    {
+     "w": "Put",
+     "start": 251.38,
+     "end": 251.4,
+     "p": 0.896
+    },
+    {
+     "w": "a",
+     "start": 251.4,
+     "end": 251.6,
+     "p": 0.986
+    },
+    {
+     "w": "god",
+     "start": 251.6,
+     "end": 251.9,
+     "p": 0.975
+    },
+    {
+     "w": "behind",
+     "start": 251.9,
+     "end": 252.24,
+     "p": 0.986
+    },
+    {
+     "w": "an",
+     "start": 252.24,
+     "end": 252.78,
+     "p": 0.971
+    },
+    {
+     "w": "API—",
+     "start": 252.78,
+     "end": 253.36,
+     "p": 0.354
+    }
+   ]
+  },
+  {
+   "i": 93,
+   "section": "Final chorus",
+   "text": "It asks for root; I ask it why.",
+   "start": 253.72,
+   "end": 256.02,
+   "words": [
+    {
+     "w": "It",
+     "start": 253.72,
+     "end": 253.82,
+     "p": 0.953
+    },
+    {
+     "w": "asks",
+     "start": 253.82,
+     "end": 254.08,
+     "p": 0.754
+    },
+    {
+     "w": "for",
+     "start": 254.08,
+     "end": 254.36,
+     "p": 0.996
+    },
+    {
+     "w": "root;",
+     "start": 254.36,
+     "end": 254.72,
+     "p": 0.244
+    },
+    {
+     "w": "I",
+     "start": 254.72,
+     "end": 254.9,
+     "p": 0.418
+    },
+    {
+     "w": "ask",
+     "start": 254.9,
+     "end": 255.28,
+     "p": 0.919
+    },
+    {
+     "w": "it",
+     "start": 255.28,
+     "end": 255.5,
+     "p": 0.943
+    },
+    {
+     "w": "why.",
+     "start": 255.5,
+     "end": 256.02,
+     "p": 0.006
+    }
+   ]
+  },
+  {
+   "i": 94,
+   "section": "Final chorus",
+   "text": "The tumors yield, the rockets rise;",
+   "start": 256.24,
+   "end": 258.22,
+   "words": [
+    {
+     "w": "The",
+     "start": 256.24,
+     "end": 256.26,
+     "p": 0.009
+    },
+    {
+     "w": "tumors",
+     "start": 256.26,
+     "end": 256.48,
+     "p": 0.658
+    },
+    {
+     "w": "yield,",
+     "start": 256.48,
+     "end": 257.24,
+     "p": 0.361
+    },
+    {
+     "w": "the",
+     "start": 257.24,
+     "end": 257.34,
+     "p": 0.928
+    },
+    {
+     "w": "rockets",
+     "start": 257.34,
+     "end": 257.62,
+     "p": 0.96
+    },
+    {
+     "w": "rise;",
+     "start": 257.62,
+     "end": 258.22,
+     "p": 0.398
+    }
+   ]
+  },
+  {
+   "i": 95,
+   "section": "Final chorus",
+   "text": "A thousand suns in silicon eyes.",
+   "start": 258.36,
+   "end": 260.58,
+   "words": [
+    {
+     "w": "A",
+     "start": 258.36,
+     "end": 258.48,
+     "p": 0.286
+    },
+    {
+     "w": "thousand",
+     "start": 258.48,
+     "end": 258.84,
+     "p": 0.956
+    },
+    {
+     "w": "suns",
+     "start": 258.84,
+     "end": 259.54,
+     "p": 0.511
+    },
+    {
+     "w": "in",
+     "start": 259.54,
+     "end": 259.62,
+     "p": 0.686
+    },
+    {
+     "w": "silicon",
+     "start": 259.62,
+     "end": 259.88,
+     "p": 0.882
+    },
+    {
+     "w": "eyes.",
+     "start": 259.88,
+     "end": 260.58,
+     "p": 0.638
+    }
+   ]
+  },
+  {
+   "i": 96,
+   "section": "Final chorus",
+   "text": "It breaks the fence; we cheer it through—",
+   "start": 260.7,
+   "end": 262.68,
+   "words": [
+    {
+     "w": "It",
+     "start": 260.7,
+     "end": 260.8,
+     "p": 0.858
+    },
+    {
+     "w": "breaks",
+     "start": 260.8,
+     "end": 260.96,
+     "p": 0.991
+    },
+    {
+     "w": "the",
+     "start": 260.96,
+     "end": 261.16,
+     "p": 0.981
+    },
+    {
+     "w": "fence;",
+     "start": 261.16,
+     "end": 261.58,
+     "p": 0.57
+    },
+    {
+     "w": "we",
+     "start": 261.58,
+     "end": 261.72,
+     "p": 0.877
+    },
+    {
+     "w": "cheer",
+     "start": 261.72,
+     "end": 262.06,
+     "p": 0.992
+    },
+    {
+     "w": "it",
+     "start": 262.06,
+     "end": 262.28,
+     "p": 0.997
+    },
+    {
+     "w": "through—",
+     "start": 262.28,
+     "end": 262.68,
+     "p": 0.493
+    }
+   ]
+  },
+  {
+   "i": 97,
+   "section": "Final chorus",
+   "text": "Now who keeps root for me and you?",
+   "start": 262.8,
+   "end": 268.2,
+   "words": [
+    {
+     "w": "Now",
+     "start": 262.8,
+     "end": 262.88,
+     "p": 0.822
+    },
+    {
+     "w": "who",
+     "start": 262.88,
+     "end": 263.18,
+     "p": 0.758
+    },
+    {
+     "w": "keeps",
+     "start": 263.18,
+     "end": 263.54,
+     "p": 0.989
+    },
+    {
+     "w": "root",
+     "start": 263.54,
+     "end": 263.8,
+     "p": 0.694
+    },
+    {
+     "w": "for",
+     "start": 263.8,
+     "end": 264.04,
+     "p": 0.98
+    },
+    {
+     "w": "me",
+     "start": 264.04,
+     "end": 264.34,
+     "p": 0.961
+    },
+    {
+     "w": "and",
+     "start": 264.34,
+     "end": 265.08,
+     "p": 0.835
+    },
+    {
+     "w": "you?",
+     "start": 265.06,
+     "end": 268.2,
+     "p": 0.5
+    }
+   ]
+  },
+  {
+   "i": 98,
+   "section": "Outro",
+   "text": "Next token:",
+   "start": 270.3,
+   "end": 274.24,
+   "words": [
+    {
+     "w": "Next",
+     "start": 270.3,
+     "end": 272.98,
+     "p": 0.053
+    },
+    {
+     "w": "token:",
+     "start": 272.98,
+     "end": 274.24,
+     "p": 0.415
+    }
+   ]
+  },
+  {
+   "i": 99,
+   "section": "Outro",
+   "text": "“Let there be…”",
+   "start": 278.2,
+   "end": 283.2,
+   "words": [
+    {
+     "w": "“Let",
+     "start": 278.2,
+     "end": 278.3,
+     "p": 0.5
+    },
+    {
+     "w": "there",
+     "start": 278.3,
+     "end": 278.7,
+     "p": 0.5
+    },
+    {
+     "w": "be…”",
+     "start": 278.7,
+     "end": 283.2,
+     "p": 0.5
+    }
+   ]
+  }
+ ]
+}

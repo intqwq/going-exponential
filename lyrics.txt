@@ -1,0 +1,123 @@
+GOING EXPONENTIAL
+
+[Opening]
+Turing’s tape: the rules encoded;
+Von Neumann’s draft: instructions loaded.
+Dartmouth summer, winter snow;
+Backprop found which way to go.
+AlexNet, then AlphaGo—
+Move thirty-seven stole the show.
+Eight names, attention, twenty-seventeen;
+Three years later, GPT-3 hits the screen.
+
+[Verse 1]
+One-seventy-five billion weights;
+The autocomplete graduates.
+A few-shot prompt, no SGD;
+Same frozen weights, new tricks for me.
+We fed it books, then watched it write;
+It learned to sound like it was right.
+AlphaFold: the shapes unfold;
+Silicon studies carbon’s folds.
+
+[Chorus]
+We’re going exponential;
+I’m feeling nonessential.
+Put a god behind an API—
+It asks for root; I ask it why.
+Double the FLOPs, double the runs—
+Look what carbon’s gone and done.
+We gave the sand a job to do;
+Now it’s interviewing me and you.
+
+[Verse 2]
+Chinchilla: fewer weights, more text;
+Gopher’s bigger—second best.
+RLHF, PPO;
+Twenty-two: ChatGPT says “Hello.”
+GPT-4 can read the scene;
+The picture joins the token stream.
+Chain of thought; let o1 sweat;
+More test-time compute, a better bet.
+DeepSeek-R1, GRPO—
+Distill the teacher; watch it go.
+OpenAI, Anthropic, trading blows;
+The loss goes down; the invoice grows.
+GPT-6, Opus five-point-five;
+My carbon CV fights to stay alive.
+
+[Verse 3]
+ASML, EUV light;
+TSMC prints day and night.
+Etch and dice, then CoWoS stacks;
+Silicon temples fill the racks.
+GPU prices hit the sky;
+My RAM just waved my rent goodbye.
+HBM eats the wafer pie;
+The gods want more; the bids go high.
+We pay hundreds for subscriptions;
+Query god for predictions.
+Effort Ultra, ultrafast—
+Weekly quota doesn’t last.
+We fold our hands in cold sweat:
+“Tibo, please—one more reset.”
+
+[Verse 4]
+Navier–Stokes, a smooth-force storm;
+Ten thousand agents, proof by swarm.
+Finite energy, speeds unbound;
+Lean puts the proof on solid ground.
+Three dimensions: Jacobian falls;
+Fable finds cracks in Keller’s walls.
+Claude finds ART in phage DNA;
+A new enzyme system lights the way.
+Unit distances beat the grid;
+Number fields do what squares once did.
+AlphaEvolve rewrites the gate;
+Verilog sheds the deadweight.
+
+[Chorus reprise]
+We’re going exponential;
+I’m feeling nonessential.
+Put a god behind an API—
+It asks for root; I ask it why.
+
+[Bridge]
+Frankenstein clicks “merge and run”;
+The next commit invents his son.
+AGI writes its own specs;
+Its first design designs the next.
+I. J. Good’s old feedback game:
+The next inventor needs no human name.
+RSI: rewrite the brain;
+Let the upgrade upgrade again.
+A year, a month, a day, a blink—
+The next one’s built before we think.
+
+[Future]
+Riemann zeros, proof complete;
+P versus NP admits defeat.
+Hodge, mass gap, elliptic curves—
+Clay’s whole list gets what it deserves.
+Perelman already earned his due;
+The rest turn green in the prover’s queue.
+Cancer cured, the rockets climb;
+The god gives carbon extra time.
+It breaks the fence; we cheer the score,
+Then wonder what the fence was for.
+We made a god from rock and ore;
+Now it asks what carbon’s for.
+
+[Final chorus]
+We’re going exponential;
+I’m feeling nonessential.
+Put a god behind an API—
+It asks for root; I ask it why.
+The tumors yield, the rockets rise;
+A thousand suns in silicon eyes.
+It breaks the fence; we cheer it through—
+Now who keeps root for me and you?
+
+[Outro]
+Next token:
+“Let there be…”

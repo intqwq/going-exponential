@@ -1,0 +1,10 @@
+node_modules/
+out/
+_archive/
+tools/
+analysis/work/
+app/dist/
+*.part.mp4
+.claude/
+.DS_Store
+Thumbs.db
